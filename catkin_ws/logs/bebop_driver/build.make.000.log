@@ -10,9 +10,9 @@ Wrote header file in /home/student/ros_project_bebop/catkin_ws/devel/.private/be
 [ 50%] Built target bebop
 [35m[1mScanning dependencies of target bebop_driver_node[0m
 [ 62%] [32mBuilding CXX object CMakeFiles/bebop_driver_node.dir/src/bebop_driver_node.cpp.o[0m
+[ 75%] [32m[1mLinking CXX executable /home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/lib/bebop_driver/bebop_driver_node[0m
+[ 75%] Built target bebop_driver_node
 [35m[1mScanning dependencies of target bebop_driver_nodelet[0m
-[ 75%] [32mBuilding CXX object CMakeFiles/bebop_driver_nodelet.dir/src/bebop_driver_nodelet.cpp.o[0m
-[ 87%] [32m[1mLinking CXX executable /home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/lib/bebop_driver/bebop_driver_node[0m
-[ 87%] Built target bebop_driver_node
+[ 87%] [32mBuilding CXX object CMakeFiles/bebop_driver_nodelet.dir/src/bebop_driver_nodelet.cpp.o[0m
 [100%] [32m[1mLinking CXX shared library /home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/lib/libbebop_driver_nodelet.so[0m
 [100%] Built target bebop_driver_nodelet

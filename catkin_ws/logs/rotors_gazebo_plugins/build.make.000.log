@@ -222,30 +222,30 @@
 [ 66%] [32mBuilding CXX object CMakeFiles/mav_msgs.dir/PoseWithCovarianceStamped.pb.cc.o[0m
 [ 67%] [32m[1mLinking CXX shared library libmav_msgs.so[0m
 [ 67%] Built target mav_msgs
+[35m[1mScanning dependencies of target rotors_gazebo_wind_plugin[0m
+[35m[1mScanning dependencies of target rotors_gazebo_ros_interface_plugin[0m
 [35m[1mScanning dependencies of target LiftDragPlugin[0m
 [ 67%] [32mBuilding CXX object CMakeFiles/LiftDragPlugin.dir/src/liftdrag_plugin/liftdrag_plugin.cpp.o[0m
-[ 68%] [32m[1mLinking CXX shared library /home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/libLiftDragPlugin.so[0m
-[ 68%] Built target LiftDragPlugin
-[35m[1mScanning dependencies of target rotors_gazebo_wind_plugin[0m
-[ 69%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_wind_plugin.dir/src/gazebo_wind_plugin.cpp.o[0m
-[35m[1mScanning dependencies of target rotors_gazebo_ros_interface_plugin[0m
-[ 70%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_ros_interface_plugin.dir/src/gazebo_ros_interface_plugin.cpp.o[0m
-[ 71%] [32m[1mLinking CXX shared library /home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_wind_plugin.so[0m
-[ 71%] Built target rotors_gazebo_wind_plugin
+[ 68%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_wind_plugin.dir/src/gazebo_wind_plugin.cpp.o[0m
+[ 69%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_ros_interface_plugin.dir/src/gazebo_ros_interface_plugin.cpp.o[0m
+[ 70%] [32m[1mLinking CXX shared library /home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/libLiftDragPlugin.so[0m
+[ 70%] Built target LiftDragPlugin
 [35m[1mScanning dependencies of target rotors_gazebo_odometry_plugin[0m
-[ 73%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_odometry_plugin.dir/src/gazebo_odometry_plugin.cpp.o[0m
-[ 74%] [32m[1mLinking CXX shared library /home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_ros_interface_plugin.so[0m
-[ 74%] Built target rotors_gazebo_ros_interface_plugin
+[ 71%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_odometry_plugin.dir/src/gazebo_odometry_plugin.cpp.o[0m
+[ 73%] [32m[1mLinking CXX shared library /home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_wind_plugin.so[0m
+[ 73%] Built target rotors_gazebo_wind_plugin
 [35m[1mScanning dependencies of target rotors_gazebo_pressure_plugin[0m
-[ 75%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_pressure_plugin.dir/src/gazebo_pressure_plugin.cpp.o[0m
-[ 76%] [32m[1mLinking CXX shared library /home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_odometry_plugin.so[0m
+[ 74%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_pressure_plugin.dir/src/gazebo_pressure_plugin.cpp.o[0m
+[ 75%] [32m[1mLinking CXX shared library /home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_ros_interface_plugin.so[0m
+[ 75%] Built target rotors_gazebo_ros_interface_plugin
 [35m[1mScanning dependencies of target rotors_gazebo_lidar_plugin[0m
-[ 77%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_lidar_plugin.dir/src/external/gazebo_lidar_plugin.cpp.o[0m
-[ 77%] Built target rotors_gazebo_odometry_plugin
+[ 76%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_lidar_plugin.dir/src/external/gazebo_lidar_plugin.cpp.o[0m
+[ 77%] [32m[1mLinking CXX shared library /home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_pressure_plugin.so[0m
+[ 77%] Built target rotors_gazebo_pressure_plugin
 [35m[1mScanning dependencies of target rotors_gazebo_gps_plugin[0m
 [ 78%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_gps_plugin.dir/src/gazebo_gps_plugin.cpp.o[0m
-[ 79%] [32m[1mLinking CXX shared library /home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_pressure_plugin.so[0m
-[ 79%] Built target rotors_gazebo_pressure_plugin
+[ 79%] [32m[1mLinking CXX shared library /home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_odometry_plugin.so[0m
+[ 79%] Built target rotors_gazebo_odometry_plugin
 [35m[1mScanning dependencies of target rotors_gazebo_controller_interface[0m
 [ 80%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_controller_interface.dir/src/gazebo_controller_interface.cpp.o[0m
 [ 82%] [32m[1mLinking CXX shared library /home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_lidar_plugin.so[0m
@@ -270,16 +270,14 @@
 [ 92%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_imu_plugin.dir/src/gazebo_imu_plugin.cpp.o[0m
 [ 93%] [32m[1mLinking CXX shared library /home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_magnetometer_plugin.so[0m
 [ 93%] Built target rotors_gazebo_magnetometer_plugin
+[ 94%] [32m[1mLinking CXX shared library /home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_imu_plugin.so[0m
+[ 94%] Built target rotors_gazebo_imu_plugin
 [35m[1mScanning dependencies of target rotors_gazebo_bag_plugin[0m
-[ 94%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_bag_plugin.dir/src/gazebo_bag_plugin.cpp.o[0m
-[ 95%] [32m[1mLinking CXX shared library /home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_imu_plugin.so[0m
-[ 95%] Built target rotors_gazebo_imu_plugin
+[ 95%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_bag_plugin.dir/src/gazebo_bag_plugin.cpp.o[0m
+[ 96%] [32m[1mLinking CXX shared library /home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_bag_plugin.so[0m
+[ 96%] Built target rotors_gazebo_bag_plugin
 [35m[1mScanning dependencies of target rotors_gazebo_motor_model[0m
-[ 96%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_motor_model.dir/src/gazebo_motor_model.cpp.o[0m
-[ 97%] [32m[1mLinking CXX shared library /home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_motor_model.so[0m
-[ 98%] [32m[1mLinking CXX shared library /home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_bag_plugin.so[0m
-[ 98%] Built target rotors_gazebo_motor_model
-[ 98%] Built target rotors_gazebo_bag_plugin
+[ 97%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_motor_model.dir/src/gazebo_motor_model.cpp.o[0m
 [01m[K/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo_plugins/src/external/gazebo_geotagged_images_plugin.cpp:[m[K In member function ‘[01m[Kvirtual void gazebo::GeotaggedImagesPlugin::Load(gazebo::sensors::SensorPtr, sdf::ElementPtr)[m[K’:
 [01m[K/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo_plugins/src/external/gazebo_geotagged_images_plugin.cpp:83:39:[m[K [01;35m[Kwarning: [m[K‘[01m[Kgazebo::common::Time gazebo::rendering::Scene::GetSimTime() const[m[K’ is deprecated [-Wdeprecated-declarations]
    lastImageTime_ = scene_->GetSimTime();
@@ -300,5 +298,7 @@ In file included from [01m[K/usr/include/gazebo-7/gazebo/rendering/rendering.h
 [01m[K/usr/include/gazebo-7/gazebo/rendering/Scene.hh:639:28:[m[K [01;36m[Knote: [m[Kdeclared here
        public: common::Time GetSimTime() const GAZEBO_DEPRECATED(7.0);
 [01;32m[K                            ^[m[K
+[ 98%] [32m[1mLinking CXX shared library /home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_motor_model.so[0m
+[ 98%] Built target rotors_gazebo_motor_model
 [100%] [32m[1mLinking CXX shared library /home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/libgazebo_geotagged_images_plugin.so[0m
 [100%] Built target gazebo_geotagged_images_plugin

@@ -655,16 +655,14 @@ Note: message V2_EXTENSION is longer than 64 bytes long (262 bytes), which can c
 Found 142 MAVLink message types in 2 XML files
 Generating C implementation in directory include/v1.0/paparazzi
 Generating C implementation in directory include/v1.0/common
+Copying fixed headers for protocol 1.0 to include/v1.0
+[ 63%] Built target paparazzi.xml-v1.0
 [35m[1mScanning dependencies of target slugs.xml-v1.0[0m
 [ 68%] [34m[1mGenerating include/v1.0/slugs/slugs.h[0m
 Validating /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink/message_definitions/v1.0/slugs.xml
 Parsing /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink/message_definitions/v1.0/slugs.xml
 Validating /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink/message_definitions/v1.0/common.xml
 Parsing /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink/message_definitions/v1.0/common.xml
-Copying fixed headers for protocol 1.0 to include/v1.0
-[ 68%] Built target paparazzi.xml-v1.0
-[35m[1mScanning dependencies of target ASLUAV.xml-v1.0[0m
-[ 72%] [34m[1mGenerating include/v1.0/ASLUAV/ASLUAV.h[0m
 Ignoring MAVLink2 message SETUP_SIGNING
 Ignoring MAVLink2 message BUTTON_CHANGE
 Ignoring MAVLink2 message PLAY_TUNE
@@ -715,6 +713,10 @@ Merged enum MAV_CMD
 Found 157 MAVLink message types in 2 XML files
 Generating C implementation in directory include/v1.0/slugs
 Generating C implementation in directory include/v1.0/common
+Copying fixed headers for protocol 1.0 to include/v1.0
+[ 68%] Built target slugs.xml-v1.0
+[35m[1mScanning dependencies of target ASLUAV.xml-v1.0[0m
+[ 72%] [34m[1mGenerating include/v1.0/ASLUAV/ASLUAV.h[0m
 Validating /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink/message_definitions/v1.0/ASLUAV.xml
 Parsing /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink/message_definitions/v1.0/ASLUAV.xml
 Note: message ASLCTRL_DATA is longer than 64 bytes long (106 bytes), which can cause fragmentation since many radio modems use 64 bytes as maximum air transfer unit.
@@ -772,7 +774,7 @@ Found 149 MAVLink message types in 2 XML files
 Generating C implementation in directory include/v1.0/ASLUAV
 Generating C implementation in directory include/v1.0/common
 Copying fixed headers for protocol 1.0 to include/v1.0
-[ 72%] Built target slugs.xml-v1.0
+[ 72%] Built target ASLUAV.xml-v1.0
 [35m[1mScanning dependencies of target autoquad.xml-v1.0[0m
 [ 77%] [34m[1mGenerating include/v1.0/autoquad/autoquad.h[0m
 Validating /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink/message_definitions/v1.0/autoquad.xml
@@ -780,8 +782,6 @@ Parsing /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink/message
 Note: message AQ_TELEMETRY_F is longer than 64 bytes long (90 bytes), which can cause fragmentation since many radio modems use 64 bytes as maximum air transfer unit.
 Validating /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink/message_definitions/v1.0/common.xml
 Parsing /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink/message_definitions/v1.0/common.xml
-Copying fixed headers for protocol 1.0 to include/v1.0
-[ 77%] Built target ASLUAV.xml-v1.0
 Ignoring MAVLink2 message SETUP_SIGNING
 Ignoring MAVLink2 message BUTTON_CHANGE
 Ignoring MAVLink2 message PLAY_TUNE
