@@ -22,3 +22,5 @@ les topics sont:
 - /snapshot as std_msgs/Empty
 - /set_exposure as std_msgs/Float32
 - /record as std_msgs/Bool
+
+4) il faut utiliser rqt_plot sur le topic /bebop/odom
