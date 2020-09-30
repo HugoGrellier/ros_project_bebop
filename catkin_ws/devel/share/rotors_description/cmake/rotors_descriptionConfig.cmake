@@ -1,0 +1,1 @@
+/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_description/share/rotors_description/cmake/rotors_descriptionConfig.cmake

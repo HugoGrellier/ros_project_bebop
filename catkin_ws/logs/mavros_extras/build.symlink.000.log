@@ -1,0 +1,7 @@
+Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/mavros_extras/cmake/mavros_extrasConfig.cmake
+Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake
+Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/libmavros_extras.so
+Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/mavros_extras/copter_visualization
+Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/mavros_extras/servo_state_publisher
+Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/mavros_extras/gcs_image_bridge
+Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/mavros_extras.pc

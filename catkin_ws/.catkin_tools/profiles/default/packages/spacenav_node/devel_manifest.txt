@@ -1,0 +1,6 @@
+joystick_drivers/spacenav_node
+/home/student/ros_project_bebop/catkin_ws/devel/.private/spacenav_node/cmake.lock /home/student/ros_project_bebop/catkin_ws/devel/./cmake.lock
+/home/student/ros_project_bebop/catkin_ws/devel/.private/spacenav_node/share/spacenav_node/cmake/spacenav_nodeConfig-version.cmake /home/student/ros_project_bebop/catkin_ws/devel/share/spacenav_node/cmake/spacenav_nodeConfig-version.cmake
+/home/student/ros_project_bebop/catkin_ws/devel/.private/spacenav_node/share/spacenav_node/cmake/spacenav_nodeConfig.cmake /home/student/ros_project_bebop/catkin_ws/devel/share/spacenav_node/cmake/spacenav_nodeConfig.cmake
+/home/student/ros_project_bebop/catkin_ws/devel/.private/spacenav_node/lib/spacenav_node/spacenav_node /home/student/ros_project_bebop/catkin_ws/devel/lib/spacenav_node/spacenav_node
+/home/student/ros_project_bebop/catkin_ws/devel/.private/spacenav_node/lib/pkgconfig/spacenav_node.pc /home/student/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/spacenav_node.pc
