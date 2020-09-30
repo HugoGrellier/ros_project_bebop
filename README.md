@@ -1,6 +1,12 @@
 # ROS_Project_Bebop
 
+les quatres commandes sont: 
+- Throttle
+- pitch
+- yaw
+- roll
 
+les topics sont:
 
 - /takeoff as std_msgs/Empty
 - /land as std_msgs/Empty
