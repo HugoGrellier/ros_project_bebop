@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/mavros
+CMAKE_SOURCE_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/mavros
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/student/ros_project_bebop/catkin_ws/build/mavros
+CMAKE_BINARY_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/build/mavros
 
 # Utility rule file for clean_test_results.
 
@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /home/student/ros_project_bebop/catkin_ws/build/mavros
 include CMakeFiles/clean_test_results.dir/progress.make
 
 CMakeFiles/clean_test_results:
-	/usr/bin/python2 /opt/ros/kinetic/share/catkin/cmake/test/remove_test_results.py /home/student/ros_project_bebop/catkin_ws/build/mavros/test_results
+	/usr/bin/python2 /opt/ros/kinetic/share/catkin/cmake/test/remove_test_results.py /home/student/Documents/ros_project_bebop/catkin_ws/build/mavros/test_results
 
 clean_test_results: CMakeFiles/clean_test_results
 clean_test_results: CMakeFiles/clean_test_results.dir/build.make
@@ -71,6 +71,6 @@ CMakeFiles/clean_test_results.dir/clean:
 .PHONY : CMakeFiles/clean_test_results.dir/clean
 
 CMakeFiles/clean_test_results.dir/depend:
-	cd /home/student/ros_project_bebop/catkin_ws/build/mavros && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/mavros /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/mavros /home/student/ros_project_bebop/catkin_ws/build/mavros /home/student/ros_project_bebop/catkin_ws/build/mavros /home/student/ros_project_bebop/catkin_ws/build/mavros/CMakeFiles/clean_test_results.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/student/Documents/ros_project_bebop/catkin_ws/build/mavros && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/mavros /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/mavros /home/student/Documents/ros_project_bebop/catkin_ws/build/mavros /home/student/Documents/ros_project_bebop/catkin_ws/build/mavros /home/student/Documents/ros_project_bebop/catkin_ws/build/mavros/CMakeFiles/clean_test_results.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/clean_test_results.dir/depend
 

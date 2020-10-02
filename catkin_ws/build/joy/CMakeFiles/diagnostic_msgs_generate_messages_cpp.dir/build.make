@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/joy
+CMAKE_SOURCE_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/joy
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/student/ros_project_bebop/catkin_ws/build/joy
+CMAKE_BINARY_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/build/joy
 
 # Utility rule file for diagnostic_msgs_generate_messages_cpp.
 
@@ -67,6 +67,6 @@ CMakeFiles/diagnostic_msgs_generate_messages_cpp.dir/clean:
 .PHONY : CMakeFiles/diagnostic_msgs_generate_messages_cpp.dir/clean
 
 CMakeFiles/diagnostic_msgs_generate_messages_cpp.dir/depend:
-	cd /home/student/ros_project_bebop/catkin_ws/build/joy && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/joy /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/joy /home/student/ros_project_bebop/catkin_ws/build/joy /home/student/ros_project_bebop/catkin_ws/build/joy /home/student/ros_project_bebop/catkin_ws/build/joy/CMakeFiles/diagnostic_msgs_generate_messages_cpp.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/student/Documents/ros_project_bebop/catkin_ws/build/joy && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/joy /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/joy /home/student/Documents/ros_project_bebop/catkin_ws/build/joy /home/student/Documents/ros_project_bebop/catkin_ws/build/joy /home/student/Documents/ros_project_bebop/catkin_ws/build/joy/CMakeFiles/diagnostic_msgs_generate_messages_cpp.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/diagnostic_msgs_generate_messages_cpp.dir/depend
 

@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/copter_visualization.dir/src/copter_visualization.cpp.o"
-  "/home/student/ros_project_bebop/catkin_ws/devel/.private/mavros_extras/lib/mavros_extras/copter_visualization.pdb"
-  "/home/student/ros_project_bebop/catkin_ws/devel/.private/mavros_extras/lib/mavros_extras/copter_visualization"
+  "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/mavros_extras/lib/mavros_extras/copter_visualization.pdb"
+  "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/mavros_extras/lib/mavros_extras/copter_visualization"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/ps3joy
+CMAKE_SOURCE_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/ps3joy
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/student/ros_project_bebop/catkin_ws/build/ps3joy
+CMAKE_BINARY_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/build/ps3joy
 
 # Utility rule file for sensor_msgs_generate_messages_lisp.
 
@@ -67,6 +67,6 @@ CMakeFiles/sensor_msgs_generate_messages_lisp.dir/clean:
 .PHONY : CMakeFiles/sensor_msgs_generate_messages_lisp.dir/clean
 
 CMakeFiles/sensor_msgs_generate_messages_lisp.dir/depend:
-	cd /home/student/ros_project_bebop/catkin_ws/build/ps3joy && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/ps3joy /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/ps3joy /home/student/ros_project_bebop/catkin_ws/build/ps3joy /home/student/ros_project_bebop/catkin_ws/build/ps3joy /home/student/ros_project_bebop/catkin_ws/build/ps3joy/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/student/Documents/ros_project_bebop/catkin_ws/build/ps3joy && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/ps3joy /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/ps3joy /home/student/Documents/ros_project_bebop/catkin_ws/build/ps3joy /home/student/Documents/ros_project_bebop/catkin_ws/build/ps3joy /home/student/Documents/ros_project_bebop/catkin_ws/build/ps3joy/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/sensor_msgs_generate_messages_lisp.dir/depend
 

@@ -1,1 +1,1 @@
-/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/roseus/ros/mav_msgs/manifest.l
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/roseus/ros/mav_msgs/manifest.l

@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_comm
+CMAKE_SOURCE_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_comm
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/student/ros_project_bebop/catkin_ws/build/rotors_comm
+CMAKE_BINARY_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_comm
 
 # Utility rule file for rotors_comm_gennodejs.
 
@@ -67,6 +67,6 @@ CMakeFiles/rotors_comm_gennodejs.dir/clean:
 .PHONY : CMakeFiles/rotors_comm_gennodejs.dir/clean
 
 CMakeFiles/rotors_comm_gennodejs.dir/depend:
-	cd /home/student/ros_project_bebop/catkin_ws/build/rotors_comm && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_comm /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_comm /home/student/ros_project_bebop/catkin_ws/build/rotors_comm /home/student/ros_project_bebop/catkin_ws/build/rotors_comm /home/student/ros_project_bebop/catkin_ws/build/rotors_comm/CMakeFiles/rotors_comm_gennodejs.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_comm && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_comm /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_comm /home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_comm /home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_comm /home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_comm/CMakeFiles/rotors_comm_gennodejs.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/rotors_comm_gennodejs.dir/depend
 

@@ -1,60 +1,241 @@
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/include/mav_msgs/Actuators.h
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/include/mav_msgs/Status.h
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/include/mav_msgs/AttitudeThrust.h
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/include/mav_msgs/RollPitchYawrateThrust.h
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/include/mav_msgs/GpsWaypoint.h
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/include/mav_msgs/FilteredSensorData.h
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/include/mav_msgs/TorqueThrust.h
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/include/mav_msgs/RateThrust.h
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/manifest.l
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/RateThrust.l
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/AttitudeThrust.l
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/TorqueThrust.l
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/GpsWaypoint.l
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/FilteredSensorData.l
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/Status.l
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/RollPitchYawrateThrust.l
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/Actuators.l
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/AttitudeThrust.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_AttitudeThrust.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_RollPitchYawrateThrust.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/RollPitchYawrateThrust.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_Actuators.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/RateThrust.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_TorqueThrust.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/FilteredSensorData.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_Status.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_GpsWaypoint.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/Actuators.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/mav_msgs-msg.asd
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/TorqueThrust.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/Status.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_RateThrust.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/GpsWaypoint.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_FilteredSensorData.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/mav_msgs/cmake/mav_msgsConfig-version.cmake
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/mav_msgs/cmake/mav_msgs-msg-extras.cmake
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/mav_msgs/cmake/mav_msgsConfig.cmake
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/mav_msgs/cmake/mav_msgs-msg-paths.cmake
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/_index.js
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/GpsWaypoint.js
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/FilteredSensorData.js
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/Status.js
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/Actuators.js
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/AttitudeThrust.js
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/TorqueThrust.js
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/_index.js
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/RateThrust.js
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/RollPitchYawrateThrust.js
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/__init__.py
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_TorqueThrust.py
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/__init__.py
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_FilteredSensorData.py
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_GpsWaypoint.py
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_RateThrust.py
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_AttitudeThrust.py
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_Status.py
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_Actuators.py
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_RollPitchYawrateThrust.py
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/mav_msgs.pc
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/include/mav_msgs/Actuators.h
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/include/mav_msgs/Status.h
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/include/mav_msgs/AttitudeThrust.h
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/include/mav_msgs/RollPitchYawrateThrust.h
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/include/mav_msgs/GpsWaypoint.h
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/include/mav_msgs/FilteredSensorData.h
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/include/mav_msgs/TorqueThrust.h
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/include/mav_msgs/RateThrust.h
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/manifest.l
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/RateThrust.l
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/AttitudeThrust.l
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/TorqueThrust.l
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/GpsWaypoint.l
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/FilteredSensorData.l
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/Status.l
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/RollPitchYawrateThrust.l
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/Actuators.l
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/AttitudeThrust.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_AttitudeThrust.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_RollPitchYawrateThrust.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/RollPitchYawrateThrust.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_Actuators.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/RateThrust.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_TorqueThrust.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/FilteredSensorData.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_Status.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_GpsWaypoint.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/Actuators.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/mav_msgs-msg.asd
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/TorqueThrust.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/Status.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_RateThrust.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/GpsWaypoint.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_FilteredSensorData.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/mav_msgs/cmake/mav_msgsConfig-version.cmake
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/mav_msgs/cmake/mav_msgs-msg-extras.cmake
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/mav_msgs/cmake/mav_msgsConfig.cmake
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/mav_msgs/cmake/mav_msgs-msg-paths.cmake
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/_index.js
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/GpsWaypoint.js
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/FilteredSensorData.js
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/Status.js
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/Actuators.js
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/AttitudeThrust.js
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/TorqueThrust.js
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/_index.js
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/RateThrust.js
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/RollPitchYawrateThrust.js
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/__init__.py
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_TorqueThrust.py
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/__init__.py
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_FilteredSensorData.py
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_GpsWaypoint.py
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_RateThrust.py
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_AttitudeThrust.py
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_Status.py
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_Actuators.py
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_RollPitchYawrateThrust.py
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/mav_msgs.pc
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/cmake.lock, /home/student/ros_project_bebop/catkin_ws/devel/./cmake.lock)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/include/mav_msgs/Actuators.h, /home/student/ros_project_bebop/catkin_ws/devel/include/mav_msgs/Actuators.h)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/include/mav_msgs/Status.h, /home/student/ros_project_bebop/catkin_ws/devel/include/mav_msgs/Status.h)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/include/mav_msgs/AttitudeThrust.h, /home/student/ros_project_bebop/catkin_ws/devel/include/mav_msgs/AttitudeThrust.h)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/include/mav_msgs/RollPitchYawrateThrust.h, /home/student/ros_project_bebop/catkin_ws/devel/include/mav_msgs/RollPitchYawrateThrust.h)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/include/mav_msgs/GpsWaypoint.h, /home/student/ros_project_bebop/catkin_ws/devel/include/mav_msgs/GpsWaypoint.h)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/include/mav_msgs/FilteredSensorData.h, /home/student/ros_project_bebop/catkin_ws/devel/include/mav_msgs/FilteredSensorData.h)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/include/mav_msgs/TorqueThrust.h, /home/student/ros_project_bebop/catkin_ws/devel/include/mav_msgs/TorqueThrust.h)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/include/mav_msgs/RateThrust.h, /home/student/ros_project_bebop/catkin_ws/devel/include/mav_msgs/RateThrust.h)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/roseus/ros/mav_msgs/manifest.l, /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/manifest.l)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/roseus/ros/mav_msgs/msg/RateThrust.l, /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/RateThrust.l)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/roseus/ros/mav_msgs/msg/AttitudeThrust.l, /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/AttitudeThrust.l)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/roseus/ros/mav_msgs/msg/TorqueThrust.l, /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/TorqueThrust.l)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/roseus/ros/mav_msgs/msg/GpsWaypoint.l, /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/GpsWaypoint.l)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/roseus/ros/mav_msgs/msg/FilteredSensorData.l, /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/FilteredSensorData.l)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/roseus/ros/mav_msgs/msg/Status.l, /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/Status.l)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/roseus/ros/mav_msgs/msg/RollPitchYawrateThrust.l, /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/RollPitchYawrateThrust.l)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/roseus/ros/mav_msgs/msg/Actuators.l, /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/Actuators.l)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/AttitudeThrust.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/AttitudeThrust.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/_package_AttitudeThrust.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_AttitudeThrust.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/_package_RollPitchYawrateThrust.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_RollPitchYawrateThrust.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/_package.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/RollPitchYawrateThrust.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/RollPitchYawrateThrust.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/_package_Actuators.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_Actuators.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/RateThrust.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/RateThrust.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/_package_TorqueThrust.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_TorqueThrust.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/FilteredSensorData.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/FilteredSensorData.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/_package_Status.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_Status.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/_package_GpsWaypoint.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_GpsWaypoint.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/Actuators.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/Actuators.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/mav_msgs-msg.asd, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/mav_msgs-msg.asd)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/TorqueThrust.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/TorqueThrust.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/Status.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/Status.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/_package_RateThrust.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_RateThrust.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/GpsWaypoint.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/GpsWaypoint.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/common-lisp/ros/mav_msgs/msg/_package_FilteredSensorData.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_FilteredSensorData.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/mav_msgs/cmake/mav_msgsConfig-version.cmake, /home/student/ros_project_bebop/catkin_ws/devel/share/mav_msgs/cmake/mav_msgsConfig-version.cmake)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/mav_msgs/cmake/mav_msgs-msg-extras.cmake, /home/student/ros_project_bebop/catkin_ws/devel/share/mav_msgs/cmake/mav_msgs-msg-extras.cmake)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/mav_msgs/cmake/mav_msgsConfig.cmake, /home/student/ros_project_bebop/catkin_ws/devel/share/mav_msgs/cmake/mav_msgsConfig.cmake)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/mav_msgs/cmake/mav_msgs-msg-paths.cmake, /home/student/ros_project_bebop/catkin_ws/devel/share/mav_msgs/cmake/mav_msgs-msg-paths.cmake)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/gennodejs/ros/mav_msgs/_index.js, /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/_index.js)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/gennodejs/ros/mav_msgs/msg/GpsWaypoint.js, /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/GpsWaypoint.js)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/gennodejs/ros/mav_msgs/msg/FilteredSensorData.js, /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/FilteredSensorData.js)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/gennodejs/ros/mav_msgs/msg/Status.js, /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/Status.js)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/gennodejs/ros/mav_msgs/msg/Actuators.js, /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/Actuators.js)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/gennodejs/ros/mav_msgs/msg/AttitudeThrust.js, /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/AttitudeThrust.js)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/gennodejs/ros/mav_msgs/msg/TorqueThrust.js, /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/TorqueThrust.js)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/gennodejs/ros/mav_msgs/msg/_index.js, /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/_index.js)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/gennodejs/ros/mav_msgs/msg/RateThrust.js, /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/RateThrust.js)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/share/gennodejs/ros/mav_msgs/msg/RollPitchYawrateThrust.js, /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/RollPitchYawrateThrust.js)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/lib/python2.7/dist-packages/mav_msgs/__init__.py, /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/__init__.py)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/lib/python2.7/dist-packages/mav_msgs/msg/_TorqueThrust.py, /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_TorqueThrust.py)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/lib/python2.7/dist-packages/mav_msgs/msg/__init__.py, /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/__init__.py)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/lib/python2.7/dist-packages/mav_msgs/msg/_FilteredSensorData.py, /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_FilteredSensorData.py)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/lib/python2.7/dist-packages/mav_msgs/msg/_GpsWaypoint.py, /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_GpsWaypoint.py)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/lib/python2.7/dist-packages/mav_msgs/msg/_RateThrust.py, /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_RateThrust.py)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/lib/python2.7/dist-packages/mav_msgs/msg/_AttitudeThrust.py, /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_AttitudeThrust.py)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/lib/python2.7/dist-packages/mav_msgs/msg/_Status.py, /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_Status.py)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/lib/python2.7/dist-packages/mav_msgs/msg/_Actuators.py, /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_Actuators.py)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/lib/python2.7/dist-packages/mav_msgs/msg/_RollPitchYawrateThrust.py, /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_RollPitchYawrateThrust.py)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/lib/pkgconfig/mav_msgs.pc, /home/student/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/mav_msgs.pc)
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/include/mav_msgs/Actuators.h
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/include/mav_msgs/Status.h
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/include/mav_msgs/AttitudeThrust.h
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/include/mav_msgs/RollPitchYawrateThrust.h
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/include/mav_msgs/GpsWaypoint.h
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/include/mav_msgs/FilteredSensorData.h
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/include/mav_msgs/TorqueThrust.h
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/include/mav_msgs/RateThrust.h
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/manifest.l
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/RateThrust.l
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/AttitudeThrust.l
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/TorqueThrust.l
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/GpsWaypoint.l
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/FilteredSensorData.l
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/Status.l
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/RollPitchYawrateThrust.l
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/mav_msgs/msg/Actuators.l
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/AttitudeThrust.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_AttitudeThrust.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_RollPitchYawrateThrust.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/RollPitchYawrateThrust.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_Actuators.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/RateThrust.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_TorqueThrust.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/FilteredSensorData.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_Status.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_GpsWaypoint.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/Actuators.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/mav_msgs-msg.asd
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/TorqueThrust.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/Status.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_RateThrust.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/GpsWaypoint.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/mav_msgs/msg/_package_FilteredSensorData.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/mav_msgs/cmake/mav_msgsConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/mav_msgs/cmake/mav_msgs-msg-extras.cmake
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/mav_msgs/cmake/mav_msgsConfig.cmake
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/mav_msgs/cmake/mav_msgs-msg-paths.cmake
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/_index.js
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/GpsWaypoint.js
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/FilteredSensorData.js
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/Status.js
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/Actuators.js
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/AttitudeThrust.js
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/TorqueThrust.js
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/_index.js
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/RateThrust.js
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/mav_msgs/msg/RollPitchYawrateThrust.js
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/__init__.py
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_TorqueThrust.py
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/__init__.py
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_FilteredSensorData.py
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_GpsWaypoint.py
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_RateThrust.py
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_AttitudeThrust.py
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_Status.py
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_Actuators.py
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/mav_msgs/msg/_RollPitchYawrateThrust.py
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/mav_msgs.pc
+Already unlinked: {}

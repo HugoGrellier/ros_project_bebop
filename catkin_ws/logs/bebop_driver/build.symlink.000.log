@@ -1,13 +1,53 @@
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/include/bebop_driver/BebopArdrone3Config.h
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_driver/cmake/bebop_driverConfig.cmake
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_driver/cmake/bebop_driverConfig-version.cmake
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_driver/docs/BebopArdrone3Config.dox
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_driver/docs/BebopArdrone3Config.wikidoc
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_driver/docs/BebopArdrone3Config-usage.dox
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/libbebop_driver_nodelet.so
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/libbebop.so
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/bebop_driver/__init__.py
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/bebop_driver/cfg/__init__.py
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/bebop_driver/cfg/BebopArdrone3Config.py
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/bebop_driver/bebop_driver_node
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/bebop_driver.pc
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/include/bebop_driver/BebopArdrone3Config.h
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/bebop_driver/cmake/bebop_driverConfig.cmake
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/bebop_driver/cmake/bebop_driverConfig-version.cmake
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/bebop_driver/docs/BebopArdrone3Config.dox
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/bebop_driver/docs/BebopArdrone3Config.wikidoc
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/bebop_driver/docs/BebopArdrone3Config-usage.dox
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/libbebop_driver_nodelet.so
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/libbebop.so
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/bebop_driver/__init__.py
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/bebop_driver/cfg/__init__.py
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/bebop_driver/cfg/BebopArdrone3Config.py
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/bebop_driver/bebop_driver_node
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/bebop_driver.pc
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/cmake.lock, /home/student/ros_project_bebop/catkin_ws/devel/./cmake.lock)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/include/bebop_driver/BebopArdrone3Config.h, /home/student/ros_project_bebop/catkin_ws/devel/include/bebop_driver/BebopArdrone3Config.h)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/share/bebop_driver/cmake/bebop_driverConfig.cmake, /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_driver/cmake/bebop_driverConfig.cmake)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/share/bebop_driver/cmake/bebop_driverConfig-version.cmake, /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_driver/cmake/bebop_driverConfig-version.cmake)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/share/bebop_driver/docs/BebopArdrone3Config.dox, /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_driver/docs/BebopArdrone3Config.dox)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/share/bebop_driver/docs/BebopArdrone3Config.wikidoc, /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_driver/docs/BebopArdrone3Config.wikidoc)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/share/bebop_driver/docs/BebopArdrone3Config-usage.dox, /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_driver/docs/BebopArdrone3Config-usage.dox)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/lib/libbebop_driver_nodelet.so, /home/student/ros_project_bebop/catkin_ws/devel/lib/libbebop_driver_nodelet.so)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/lib/libbebop.so, /home/student/ros_project_bebop/catkin_ws/devel/lib/libbebop.so)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/lib/python2.7/dist-packages/bebop_driver/__init__.py, /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/bebop_driver/__init__.py)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/lib/python2.7/dist-packages/bebop_driver/cfg/__init__.py, /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/bebop_driver/cfg/__init__.py)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/lib/python2.7/dist-packages/bebop_driver/cfg/BebopArdrone3Config.py, /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/bebop_driver/cfg/BebopArdrone3Config.py)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/lib/bebop_driver/bebop_driver_node, /home/student/ros_project_bebop/catkin_ws/devel/lib/bebop_driver/bebop_driver_node)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/lib/pkgconfig/bebop_driver.pc, /home/student/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/bebop_driver.pc)
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/include/bebop_driver/BebopArdrone3Config.h
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_driver/cmake/bebop_driverConfig.cmake
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_driver/cmake/bebop_driverConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_driver/docs/BebopArdrone3Config.dox
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_driver/docs/BebopArdrone3Config.wikidoc
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_driver/docs/BebopArdrone3Config-usage.dox
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/libbebop_driver_nodelet.so
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/libbebop.so
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/bebop_driver/__init__.py
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/bebop_driver/cfg/__init__.py
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/bebop_driver/cfg/BebopArdrone3Config.py
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/bebop_driver/bebop_driver_node
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/bebop_driver.pc
+Already unlinked: {}

@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/planning_msgs
+CMAKE_SOURCE_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/planning_msgs
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/student/ros_project_bebop/catkin_ws/build/planning_msgs
+CMAKE_BINARY_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/build/planning_msgs
 
 # Utility rule file for planning_msgs_genlisp.
 
@@ -67,6 +67,6 @@ CMakeFiles/planning_msgs_genlisp.dir/clean:
 .PHONY : CMakeFiles/planning_msgs_genlisp.dir/clean
 
 CMakeFiles/planning_msgs_genlisp.dir/depend:
-	cd /home/student/ros_project_bebop/catkin_ws/build/planning_msgs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/planning_msgs /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/planning_msgs /home/student/ros_project_bebop/catkin_ws/build/planning_msgs /home/student/ros_project_bebop/catkin_ws/build/planning_msgs /home/student/ros_project_bebop/catkin_ws/build/planning_msgs/CMakeFiles/planning_msgs_genlisp.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/student/Documents/ros_project_bebop/catkin_ws/build/planning_msgs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/planning_msgs /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/planning_msgs /home/student/Documents/ros_project_bebop/catkin_ws/build/planning_msgs /home/student/Documents/ros_project_bebop/catkin_ws/build/planning_msgs /home/student/Documents/ros_project_bebop/catkin_ws/build/planning_msgs/CMakeFiles/planning_msgs_genlisp.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/planning_msgs_genlisp.dir/depend
 

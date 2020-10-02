@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote
+CMAKE_SOURCE_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/student/ros_project_bebop/catkin_ws/build/wiimote
+CMAKE_BINARY_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote
 
 # Include any dependencies generated for this target.
 include CMakeFiles/wiimote_node.dir/depend.make
@@ -58,17 +58,17 @@ include CMakeFiles/wiimote_node.dir/progress.make
 include CMakeFiles/wiimote_node.dir/flags.make
 
 CMakeFiles/wiimote_node.dir/src/wiimote_controller.cpp.o: CMakeFiles/wiimote_node.dir/flags.make
-CMakeFiles/wiimote_node.dir/src/wiimote_controller.cpp.o: /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/src/wiimote_controller.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/student/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/wiimote_node.dir/src/wiimote_controller.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/wiimote_node.dir/src/wiimote_controller.cpp.o -c /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/src/wiimote_controller.cpp
+CMakeFiles/wiimote_node.dir/src/wiimote_controller.cpp.o: /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/src/wiimote_controller.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/wiimote_node.dir/src/wiimote_controller.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/wiimote_node.dir/src/wiimote_controller.cpp.o -c /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/src/wiimote_controller.cpp
 
 CMakeFiles/wiimote_node.dir/src/wiimote_controller.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/wiimote_node.dir/src/wiimote_controller.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/src/wiimote_controller.cpp > CMakeFiles/wiimote_node.dir/src/wiimote_controller.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/src/wiimote_controller.cpp > CMakeFiles/wiimote_node.dir/src/wiimote_controller.cpp.i
 
 CMakeFiles/wiimote_node.dir/src/wiimote_controller.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/wiimote_node.dir/src/wiimote_controller.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/src/wiimote_controller.cpp -o CMakeFiles/wiimote_node.dir/src/wiimote_controller.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/src/wiimote_controller.cpp -o CMakeFiles/wiimote_node.dir/src/wiimote_controller.cpp.s
 
 CMakeFiles/wiimote_node.dir/src/wiimote_controller.cpp.o.requires:
 
@@ -82,17 +82,17 @@ CMakeFiles/wiimote_node.dir/src/wiimote_controller.cpp.o.provides.build: CMakeFi
 
 
 CMakeFiles/wiimote_node.dir/src/stat_vector_3d.cpp.o: CMakeFiles/wiimote_node.dir/flags.make
-CMakeFiles/wiimote_node.dir/src/stat_vector_3d.cpp.o: /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/src/stat_vector_3d.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/student/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/wiimote_node.dir/src/stat_vector_3d.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/wiimote_node.dir/src/stat_vector_3d.cpp.o -c /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/src/stat_vector_3d.cpp
+CMakeFiles/wiimote_node.dir/src/stat_vector_3d.cpp.o: /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/src/stat_vector_3d.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/wiimote_node.dir/src/stat_vector_3d.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/wiimote_node.dir/src/stat_vector_3d.cpp.o -c /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/src/stat_vector_3d.cpp
 
 CMakeFiles/wiimote_node.dir/src/stat_vector_3d.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/wiimote_node.dir/src/stat_vector_3d.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/src/stat_vector_3d.cpp > CMakeFiles/wiimote_node.dir/src/stat_vector_3d.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/src/stat_vector_3d.cpp > CMakeFiles/wiimote_node.dir/src/stat_vector_3d.cpp.i
 
 CMakeFiles/wiimote_node.dir/src/stat_vector_3d.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/wiimote_node.dir/src/stat_vector_3d.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/src/stat_vector_3d.cpp -o CMakeFiles/wiimote_node.dir/src/stat_vector_3d.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/src/stat_vector_3d.cpp -o CMakeFiles/wiimote_node.dir/src/stat_vector_3d.cpp.s
 
 CMakeFiles/wiimote_node.dir/src/stat_vector_3d.cpp.o.requires:
 
@@ -113,39 +113,39 @@ wiimote_node_OBJECTS = \
 # External object files for target wiimote_node
 wiimote_node_EXTERNAL_OBJECTS =
 
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: CMakeFiles/wiimote_node.dir/src/wiimote_controller.cpp.o
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: CMakeFiles/wiimote_node.dir/src/stat_vector_3d.cpp.o
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: CMakeFiles/wiimote_node.dir/build.make
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /opt/ros/kinetic/lib/libroscpp.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libboost_signals.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /opt/ros/kinetic/lib/librosconsole.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /opt/ros/kinetic/lib/librosconsole_log4cxx.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /opt/ros/kinetic/lib/librosconsole_backend_interface.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libboost_regex.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /opt/ros/kinetic/lib/libroscpp_serialization.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /opt/ros/kinetic/lib/libxmlrpcpp.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /opt/ros/kinetic/lib/librostime.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /opt/ros/kinetic/lib/libcpp_common.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libboost_thread.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libboost_chrono.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libboost_date_time.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libboost_atomic.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libpthread.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /opt/ros/kinetic/lib/libroslib.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /opt/ros/kinetic/lib/librospack.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libpython2.7.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libboost_program_options.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libboost_system.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libtinyxml.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: CMakeFiles/wiimote_node.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/student/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable /home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node"
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: CMakeFiles/wiimote_node.dir/src/wiimote_controller.cpp.o
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: CMakeFiles/wiimote_node.dir/src/stat_vector_3d.cpp.o
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: CMakeFiles/wiimote_node.dir/build.make
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /opt/ros/kinetic/lib/libroscpp.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libboost_signals.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /opt/ros/kinetic/lib/librosconsole.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /opt/ros/kinetic/lib/librosconsole_log4cxx.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /opt/ros/kinetic/lib/librosconsole_backend_interface.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libboost_regex.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /opt/ros/kinetic/lib/libroscpp_serialization.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /opt/ros/kinetic/lib/libxmlrpcpp.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /opt/ros/kinetic/lib/librostime.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /opt/ros/kinetic/lib/libcpp_common.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libboost_thread.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libboost_chrono.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libboost_date_time.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libboost_atomic.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libpthread.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /opt/ros/kinetic/lib/libroslib.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /opt/ros/kinetic/lib/librospack.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libpython2.7.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libboost_program_options.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libboost_system.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: /usr/lib/x86_64-linux-gnu/libtinyxml.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node: CMakeFiles/wiimote_node.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable /home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/wiimote_node.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/wiimote_node.dir/build: /home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node
+CMakeFiles/wiimote_node.dir/build: /home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node
 
 .PHONY : CMakeFiles/wiimote_node.dir/build
 
@@ -159,6 +159,6 @@ CMakeFiles/wiimote_node.dir/clean:
 .PHONY : CMakeFiles/wiimote_node.dir/clean
 
 CMakeFiles/wiimote_node.dir/depend:
-	cd /home/student/ros_project_bebop/catkin_ws/build/wiimote && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote /home/student/ros_project_bebop/catkin_ws/build/wiimote /home/student/ros_project_bebop/catkin_ws/build/wiimote /home/student/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles/wiimote_node.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote /home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote /home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote /home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles/wiimote_node.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/wiimote_node.dir/depend
 

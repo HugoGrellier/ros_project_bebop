@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/test_mavros
+CMAKE_SOURCE_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/test_mavros
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/student/ros_project_bebop/catkin_ws/build/test_mavros
+CMAKE_BINARY_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/build/test_mavros
 
 # Utility rule file for dynamic_reconfigure_gencfg.
 
@@ -67,6 +67,6 @@ CMakeFiles/dynamic_reconfigure_gencfg.dir/clean:
 .PHONY : CMakeFiles/dynamic_reconfigure_gencfg.dir/clean
 
 CMakeFiles/dynamic_reconfigure_gencfg.dir/depend:
-	cd /home/student/ros_project_bebop/catkin_ws/build/test_mavros && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/test_mavros /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/test_mavros /home/student/ros_project_bebop/catkin_ws/build/test_mavros /home/student/ros_project_bebop/catkin_ws/build/test_mavros /home/student/ros_project_bebop/catkin_ws/build/test_mavros/CMakeFiles/dynamic_reconfigure_gencfg.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/student/Documents/ros_project_bebop/catkin_ws/build/test_mavros && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/test_mavros /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/test_mavros /home/student/Documents/ros_project_bebop/catkin_ws/build/test_mavros /home/student/Documents/ros_project_bebop/catkin_ws/build/test_mavros /home/student/Documents/ros_project_bebop/catkin_ws/build/test_mavros/CMakeFiles/dynamic_reconfigure_gencfg.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/dynamic_reconfigure_gencfg.dir/depend
 

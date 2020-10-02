@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/spacenav_node
+CMAKE_SOURCE_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/spacenav_node
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/student/ros_project_bebop/catkin_ws/build/spacenav_node
+CMAKE_BINARY_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/build/spacenav_node
 
 # Utility rule file for run_tests_spacenav_node.
 
@@ -67,6 +67,6 @@ CMakeFiles/run_tests_spacenav_node.dir/clean:
 .PHONY : CMakeFiles/run_tests_spacenav_node.dir/clean
 
 CMakeFiles/run_tests_spacenav_node.dir/depend:
-	cd /home/student/ros_project_bebop/catkin_ws/build/spacenav_node && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/spacenav_node /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/spacenav_node /home/student/ros_project_bebop/catkin_ws/build/spacenav_node /home/student/ros_project_bebop/catkin_ws/build/spacenav_node /home/student/ros_project_bebop/catkin_ws/build/spacenav_node/CMakeFiles/run_tests_spacenav_node.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/student/Documents/ros_project_bebop/catkin_ws/build/spacenav_node && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/spacenav_node /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/spacenav_node /home/student/Documents/ros_project_bebop/catkin_ws/build/spacenav_node /home/student/Documents/ros_project_bebop/catkin_ws/build/spacenav_node /home/student/Documents/ros_project_bebop/catkin_ws/build/spacenav_node/CMakeFiles/run_tests_spacenav_node.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/run_tests_spacenav_node.dir/depend
 

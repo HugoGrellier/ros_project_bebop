@@ -1,8 +1,8 @@
-prefix=/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_joy_interface
+prefix=/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_joy_interface
 
 Name: rotors_joy_interface
 Description: Description of rotors_joy_interface
 Version: 2.1.1
-Cflags: -I/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_joy_interface/include
+Cflags: -I/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_joy_interface/include
 Libs: -L${prefix}/lib 
 Requires: roscpp geometry_msgs mav_msgs sensor_msgs trajectory_msgs

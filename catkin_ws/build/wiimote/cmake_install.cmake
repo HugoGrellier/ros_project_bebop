@@ -1,8 +1,8 @@
-# Install script for directory: /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote
+# Install script for directory: /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/student/ros_project_bebop/catkin_ws/install")
+  set(CMAKE_INSTALL_PREFIX "/home/student/Documents/ros_project_bebop/catkin_ws/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -44,156 +44,156 @@ endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/student/ros_project_bebop/catkin_ws/install/_setup_util.py")
+   "/home/student/Documents/ros_project_bebop/catkin_ws/install/_setup_util.py")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/student/ros_project_bebop/catkin_ws/install" TYPE PROGRAM FILES "/home/student/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/_setup_util.py")
+file(INSTALL DESTINATION "/home/student/Documents/ros_project_bebop/catkin_ws/install" TYPE PROGRAM FILES "/home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/_setup_util.py")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/student/ros_project_bebop/catkin_ws/install/env.sh")
+   "/home/student/Documents/ros_project_bebop/catkin_ws/install/env.sh")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/student/ros_project_bebop/catkin_ws/install" TYPE PROGRAM FILES "/home/student/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/env.sh")
+file(INSTALL DESTINATION "/home/student/Documents/ros_project_bebop/catkin_ws/install" TYPE PROGRAM FILES "/home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/env.sh")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/student/ros_project_bebop/catkin_ws/install/setup.bash;/home/student/ros_project_bebop/catkin_ws/install/local_setup.bash")
+   "/home/student/Documents/ros_project_bebop/catkin_ws/install/setup.bash;/home/student/Documents/ros_project_bebop/catkin_ws/install/local_setup.bash")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/student/ros_project_bebop/catkin_ws/install" TYPE FILE FILES
-    "/home/student/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/setup.bash"
-    "/home/student/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/local_setup.bash"
+file(INSTALL DESTINATION "/home/student/Documents/ros_project_bebop/catkin_ws/install" TYPE FILE FILES
+    "/home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/setup.bash"
+    "/home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/local_setup.bash"
     )
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/student/ros_project_bebop/catkin_ws/install/setup.sh;/home/student/ros_project_bebop/catkin_ws/install/local_setup.sh")
+   "/home/student/Documents/ros_project_bebop/catkin_ws/install/setup.sh;/home/student/Documents/ros_project_bebop/catkin_ws/install/local_setup.sh")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/student/ros_project_bebop/catkin_ws/install" TYPE FILE FILES
-    "/home/student/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/setup.sh"
-    "/home/student/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/local_setup.sh"
+file(INSTALL DESTINATION "/home/student/Documents/ros_project_bebop/catkin_ws/install" TYPE FILE FILES
+    "/home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/setup.sh"
+    "/home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/local_setup.sh"
     )
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/student/ros_project_bebop/catkin_ws/install/setup.zsh;/home/student/ros_project_bebop/catkin_ws/install/local_setup.zsh")
+   "/home/student/Documents/ros_project_bebop/catkin_ws/install/setup.zsh;/home/student/Documents/ros_project_bebop/catkin_ws/install/local_setup.zsh")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/student/ros_project_bebop/catkin_ws/install" TYPE FILE FILES
-    "/home/student/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/setup.zsh"
-    "/home/student/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/local_setup.zsh"
+file(INSTALL DESTINATION "/home/student/Documents/ros_project_bebop/catkin_ws/install" TYPE FILE FILES
+    "/home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/setup.zsh"
+    "/home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/local_setup.zsh"
     )
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/student/ros_project_bebop/catkin_ws/install/.rosinstall")
+   "/home/student/Documents/ros_project_bebop/catkin_ws/install/.rosinstall")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/student/ros_project_bebop/catkin_ws/install" TYPE FILE FILES "/home/student/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/.rosinstall")
+file(INSTALL DESTINATION "/home/student/Documents/ros_project_bebop/catkin_ws/install" TYPE FILE FILES "/home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/.rosinstall")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  include("/home/student/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/safe_execute_install.cmake")
+  include("/home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/safe_execute_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/wiimote/msg" TYPE FILE FILES
-    "/home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/msg/IrSourceInfo.msg"
-    "/home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/msg/State.msg"
-    "/home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/msg/TimedSwitch.msg"
+    "/home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/msg/IrSourceInfo.msg"
+    "/home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/msg/State.msg"
+    "/home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/msg/TimedSwitch.msg"
     )
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/wiimote/cmake" TYPE FILE FILES "/home/student/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/wiimote-msg-paths.cmake")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/wiimote/cmake" TYPE FILE FILES "/home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/wiimote-msg-paths.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/include/wiimote")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/include/wiimote")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/roseus/ros" TYPE DIRECTORY FILES "/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/roseus/ros/wiimote")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/roseus/ros" TYPE DIRECTORY FILES "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/roseus/ros/wiimote")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/common-lisp/ros" TYPE DIRECTORY FILES "/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/common-lisp/ros/wiimote")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/common-lisp/ros" TYPE DIRECTORY FILES "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/common-lisp/ros/wiimote")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/gennodejs/ros" TYPE DIRECTORY FILES "/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/gennodejs/ros/wiimote")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/gennodejs/ros" TYPE DIRECTORY FILES "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/gennodejs/ros/wiimote")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  execute_process(COMMAND "/usr/bin/python2" -m compileall "/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/python2.7/dist-packages/wiimote")
+  execute_process(COMMAND "/usr/bin/python2" -m compileall "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/python2.7/dist-packages/wiimote")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/python2.7/dist-packages" TYPE DIRECTORY FILES "/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/python2.7/dist-packages/wiimote" REGEX "/\\_\\_init\\_\\_\\.py$" EXCLUDE REGEX "/\\_\\_init\\_\\_\\.pyc$" EXCLUDE)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/python2.7/dist-packages" TYPE DIRECTORY FILES "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/python2.7/dist-packages/wiimote" REGEX "/\\_\\_init\\_\\_\\.py$" EXCLUDE REGEX "/\\_\\_init\\_\\_\\.pyc$" EXCLUDE)
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/python2.7/dist-packages" TYPE DIRECTORY FILES "/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/python2.7/dist-packages/wiimote" FILES_MATCHING REGEX "/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/python2.7/dist-packages/wiimote/.+/__init__.pyc?$")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/python2.7/dist-packages" TYPE DIRECTORY FILES "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/python2.7/dist-packages/wiimote" FILES_MATCHING REGEX "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/python2.7/dist-packages/wiimote/.+/__init__.pyc?$")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/student/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/wiimote.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/wiimote.pc")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/wiimote/cmake" TYPE FILE FILES "/home/student/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/wiimote-msg-extras.cmake")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/wiimote/cmake" TYPE FILE FILES "/home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/wiimote-msg-extras.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/wiimote/cmake" TYPE FILE FILES
-    "/home/student/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/wiimoteConfig.cmake"
-    "/home/student/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/wiimoteConfig-version.cmake"
+    "/home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/wiimoteConfig.cmake"
+    "/home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/catkin_generated/installspace/wiimoteConfig-version.cmake"
     )
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/wiimote" TYPE FILE FILES "/home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/wiimote" TYPE FILE FILES "/home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/package.xml")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/wiimote/launch" TYPE DIRECTORY FILES "/home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/launch/")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/wiimote/launch" TYPE DIRECTORY FILES "/home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/launch/")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/wiimote" TYPE PROGRAM FILES
-    "/home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/nodes/feedbackTester.py"
-    "/home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/nodes/wiimote_node.py"
+    "/home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/nodes/feedbackTester.py"
+    "/home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/nodes/wiimote_node.py"
     )
 endif()
 
@@ -204,7 +204,7 @@ if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspeci
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/wiimote/wiimote_node"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/wiimote" TYPE EXECUTABLE FILES "/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/wiimote" TYPE EXECUTABLE FILES "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/wiimote/wiimote_node" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/wiimote/wiimote_node")
     file(RPATH_CHANGE
@@ -219,7 +219,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/student/ros_project_bebop/catkin_ws/build/wiimote/gtest/cmake_install.cmake")
+  include("/home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/gtest/cmake_install.cmake")
 
 endif()
 
@@ -231,5 +231,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/student/ros_project_bebop/catkin_ws/build/wiimote/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

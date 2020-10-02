@@ -4,5 +4,5 @@ PROJECT_PKG_CONFIG_INCLUDE_DIRS = "".split(';') if "" != "" else []
 PROJECT_CATKIN_DEPENDS = "bebop_msgs".replace(';', ' ')
 PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
 PROJECT_NAME = "bebop_tools"
-PROJECT_SPACE_DIR = "/home/student/ros_project_bebop/catkin_ws/install"
+PROJECT_SPACE_DIR = "/home/student/Documents/ros_project_bebop/catkin_ws/install"
 PROJECT_VERSION = "0.7.0"

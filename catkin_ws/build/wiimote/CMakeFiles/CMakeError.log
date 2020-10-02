@@ -1,24 +1,24 @@
 Determining if the pthread_create exist failed with the following output:
-Change Dir: /home/student/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles/CMakeTmp
+Change Dir: /home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_cb18e/fast"
-/usr/bin/make -f CMakeFiles/cmTC_cb18e.dir/build.make CMakeFiles/cmTC_cb18e.dir/build
-make[1] : on entre dans le répertoire « /home/student/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles/CMakeTmp »
-Building C object CMakeFiles/cmTC_cb18e.dir/CheckSymbolExists.c.o
-/usr/bin/cc     -o CMakeFiles/cmTC_cb18e.dir/CheckSymbolExists.c.o   -c /home/student/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles/CMakeTmp/CheckSymbolExists.c
-Linking C executable cmTC_cb18e
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cb18e.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_cb18e.dir/CheckSymbolExists.c.o  -o cmTC_cb18e -rdynamic 
-CMakeFiles/cmTC_cb18e.dir/CheckSymbolExists.c.o : Dans la fonction « main » :
+Run Build Command:"/usr/bin/make" "cmTC_72286/fast"
+/usr/bin/make -f CMakeFiles/cmTC_72286.dir/build.make CMakeFiles/cmTC_72286.dir/build
+make[1] : on entre dans le répertoire « /home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles/CMakeTmp »
+Building C object CMakeFiles/cmTC_72286.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_72286.dir/CheckSymbolExists.c.o   -c /home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_72286
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_72286.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_72286.dir/CheckSymbolExists.c.o  -o cmTC_72286 -rdynamic 
+CMakeFiles/cmTC_72286.dir/CheckSymbolExists.c.o : Dans la fonction « main » :
 CheckSymbolExists.c:(.text+0x16) : référence indéfinie vers « pthread_create »
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_cb18e.dir/build.make:97 : la recette pour la cible « cmTC_cb18e » a échouée
-make[1]: *** [cmTC_cb18e] Erreur 1
-make[1] : on quitte le répertoire « /home/student/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles/CMakeTmp »
-Makefile:126 : la recette pour la cible « cmTC_cb18e/fast » a échouée
-make: *** [cmTC_cb18e/fast] Erreur 2
+CMakeFiles/cmTC_72286.dir/build.make:97 : la recette pour la cible « cmTC_72286 » a échouée
+make[1]: *** [cmTC_72286] Erreur 1
+make[1] : on quitte le répertoire « /home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles/CMakeTmp »
+Makefile:126 : la recette pour la cible « cmTC_72286/fast » a échouée
+make: *** [cmTC_72286/fast] Erreur 2
 
-File /home/student/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+File /home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
 /* */
 #include <pthread.h>
 
@@ -34,22 +34,22 @@ int main(int argc, char** argv)
 }
 
 Determining if the function pthread_create exists in the pthreads failed with the following output:
-Change Dir: /home/student/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles/CMakeTmp
+Change Dir: /home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_9945d/fast"
-/usr/bin/make -f CMakeFiles/cmTC_9945d.dir/build.make CMakeFiles/cmTC_9945d.dir/build
-make[1] : on entre dans le répertoire « /home/student/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles/CMakeTmp »
-Building C object CMakeFiles/cmTC_9945d.dir/CheckFunctionExists.c.o
-/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_9945d.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
-Linking C executable cmTC_9945d
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9945d.dir/link.txt --verbose=1
-/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_9945d.dir/CheckFunctionExists.c.o  -o cmTC_9945d -rdynamic -lpthreads 
+Run Build Command:"/usr/bin/make" "cmTC_8cece/fast"
+/usr/bin/make -f CMakeFiles/cmTC_8cece.dir/build.make CMakeFiles/cmTC_8cece.dir/build
+make[1] : on entre dans le répertoire « /home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles/CMakeTmp »
+Building C object CMakeFiles/cmTC_8cece.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_8cece.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_8cece
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8cece.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_8cece.dir/CheckFunctionExists.c.o  -o cmTC_8cece -rdynamic -lpthreads 
 /usr/bin/ld : ne peut trouver -lpthreads
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_9945d.dir/build.make:97 : la recette pour la cible « cmTC_9945d » a échouée
-make[1]: *** [cmTC_9945d] Erreur 1
-make[1] : on quitte le répertoire « /home/student/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles/CMakeTmp »
-Makefile:126 : la recette pour la cible « cmTC_9945d/fast » a échouée
-make: *** [cmTC_9945d/fast] Erreur 2
+CMakeFiles/cmTC_8cece.dir/build.make:97 : la recette pour la cible « cmTC_8cece » a échouée
+make[1]: *** [cmTC_8cece] Erreur 1
+make[1] : on quitte le répertoire « /home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles/CMakeTmp »
+Makefile:126 : la recette pour la cible « cmTC_8cece/fast » a échouée
+make: *** [cmTC_8cece/fast] Erreur 2
 
 

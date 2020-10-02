@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/mavros_extras
+CMAKE_SOURCE_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/mavros_extras
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/student/ros_project_bebop/catkin_ws/build/mavros_extras
+CMAKE_BINARY_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/build/mavros_extras
 
 # Utility rule file for sensor_msgs_generate_messages_cpp.
 
@@ -67,6 +67,6 @@ CMakeFiles/sensor_msgs_generate_messages_cpp.dir/clean:
 .PHONY : CMakeFiles/sensor_msgs_generate_messages_cpp.dir/clean
 
 CMakeFiles/sensor_msgs_generate_messages_cpp.dir/depend:
-	cd /home/student/ros_project_bebop/catkin_ws/build/mavros_extras && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/mavros_extras /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/mavros_extras /home/student/ros_project_bebop/catkin_ws/build/mavros_extras /home/student/ros_project_bebop/catkin_ws/build/mavros_extras /home/student/ros_project_bebop/catkin_ws/build/mavros_extras/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/student/Documents/ros_project_bebop/catkin_ws/build/mavros_extras && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/mavros_extras /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/mavros_extras /home/student/Documents/ros_project_bebop/catkin_ws/build/mavros_extras /home/student/Documents/ros_project_bebop/catkin_ws/build/mavros_extras /home/student/Documents/ros_project_bebop/catkin_ws/build/mavros_extras/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/sensor_msgs_generate_messages_cpp.dir/depend
 

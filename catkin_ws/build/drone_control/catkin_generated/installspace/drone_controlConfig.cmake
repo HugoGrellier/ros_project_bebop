@@ -67,14 +67,14 @@ set(drone_control_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("FALSE" STREQUAL "TRUE")
-  set(drone_control_SOURCE_PREFIX /home/student/ros_project_bebop/catkin_ws/src/drone_control)
-  set(drone_control_DEVEL_PREFIX /home/student/ros_project_bebop/catkin_ws/devel/.private/drone_control)
+  set(drone_control_SOURCE_PREFIX /home/student/Documents/ros_project_bebop/catkin_ws/src/drone_control)
+  set(drone_control_DEVEL_PREFIX /home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/drone_control)
   set(drone_control_INSTALL_PREFIX "")
   set(drone_control_PREFIX ${drone_control_DEVEL_PREFIX})
 else()
   set(drone_control_SOURCE_PREFIX "")
   set(drone_control_DEVEL_PREFIX "")
-  set(drone_control_INSTALL_PREFIX /home/student/ros_project_bebop/catkin_ws/install)
+  set(drone_control_INSTALL_PREFIX /home/student/Documents/ros_project_bebop/catkin_ws/install)
   set(drone_control_PREFIX ${drone_control_INSTALL_PREFIX})
 endif()
 
@@ -91,9 +91,9 @@ endif()
 # flag project as catkin-based to distinguish if a find_package()-ed project is a catkin project
 set(drone_control_FOUND_CATKIN_PROJECT TRUE)
 
-if(NOT " " STREQUAL " ")
+if(NOT "include " STREQUAL " ")
   set(drone_control_INCLUDE_DIRS "")
-  set(_include_dirs "")
+  set(_include_dirs "include")
   if(NOT " " STREQUAL " ")
     set(_report "Check the issue tracker '' and consider creating a ticket if the problem has not been reported yet.")
   elseif(NOT " " STREQUAL " ")
@@ -154,7 +154,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/student/ros_project_bebop/catkin_ws/install/lib;/home/student/ros_project_bebop/catkin_ws/devel/lib;/opt/ros/kinetic/lib)
+    foreach(path /home/student/Documents/ros_project_bebop/catkin_ws/install/lib;/home/student/Documents/ros_project_bebop/catkin_ws/devel/lib;/opt/ros/kinetic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)
@@ -177,7 +177,7 @@ foreach(library ${libraries})
   endif()
 endforeach()
 
-set(drone_control_EXPORTED_TARGETS "")
+set(drone_control_EXPORTED_TARGETS "drone_control_generate_messages_cpp;drone_control_generate_messages_eus;drone_control_generate_messages_lisp;drone_control_generate_messages_nodejs;drone_control_generate_messages_py")
 # create dummy targets for exported code generation targets to make life of users easier
 foreach(t ${drone_control_EXPORTED_TARGETS})
   if(NOT TARGET ${t})
@@ -214,7 +214,7 @@ foreach(depend ${depends})
   list(APPEND drone_control_EXPORTED_TARGETS ${${drone_control_dep}_EXPORTED_TARGETS})
 endforeach()
 
-set(pkg_cfg_extras "")
+set(pkg_cfg_extras "drone_control-msg-extras.cmake")
 foreach(extra ${pkg_cfg_extras})
   if(NOT IS_ABSOLUTE ${extra})
     set(extra ${drone_control_DIR}/${extra})

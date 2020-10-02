@@ -22,8 +22,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/mavros_plugins.dir/src/plugins/manual_control.cpp.o"
   "CMakeFiles/mavros_plugins.dir/src/plugins/altitude.cpp.o"
   "CMakeFiles/mavros_plugins.dir/src/plugins/hil_controls.cpp.o"
-  "/home/student/ros_project_bebop/catkin_ws/devel/.private/mavros/lib/libmavros_plugins.pdb"
-  "/home/student/ros_project_bebop/catkin_ws/devel/.private/mavros/lib/libmavros_plugins.so"
+  "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/mavros/lib/libmavros_plugins.pdb"
+  "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/mavros/lib/libmavros_plugins.so"
 )
 
 # Per-language clean rules from dependency scanning.

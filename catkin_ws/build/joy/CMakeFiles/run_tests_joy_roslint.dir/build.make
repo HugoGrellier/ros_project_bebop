@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/joy
+CMAKE_SOURCE_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/joy
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/student/ros_project_bebop/catkin_ws/build/joy
+CMAKE_BINARY_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/build/joy
 
 # Utility rule file for run_tests_joy_roslint.
 
@@ -67,6 +67,6 @@ CMakeFiles/run_tests_joy_roslint.dir/clean:
 .PHONY : CMakeFiles/run_tests_joy_roslint.dir/clean
 
 CMakeFiles/run_tests_joy_roslint.dir/depend:
-	cd /home/student/ros_project_bebop/catkin_ws/build/joy && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/joy /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/joy /home/student/ros_project_bebop/catkin_ws/build/joy /home/student/ros_project_bebop/catkin_ws/build/joy /home/student/ros_project_bebop/catkin_ws/build/joy/CMakeFiles/run_tests_joy_roslint.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/student/Documents/ros_project_bebop/catkin_ws/build/joy && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/joy /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/joy /home/student/Documents/ros_project_bebop/catkin_ws/build/joy /home/student/Documents/ros_project_bebop/catkin_ws/build/joy /home/student/Documents/ros_project_bebop/catkin_ws/build/joy/CMakeFiles/run_tests_joy_roslint.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/run_tests_joy_roslint.dir/depend
 

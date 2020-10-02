@@ -1,1 +1,1 @@
-/home/student/ros_project_bebop/catkin_ws/devel/.private/spacenav_node/share/spacenav_node/cmake/spacenav_nodeConfig.cmake
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/spacenav_node/share/spacenav_node/cmake/spacenav_nodeConfig.cmake

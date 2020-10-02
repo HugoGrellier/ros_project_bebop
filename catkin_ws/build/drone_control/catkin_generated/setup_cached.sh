@@ -7,9 +7,10 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/student/ros_project_bebop/catkin_ws/devel/.private/drone_control:$CMAKE_PREFIX_PATH"
-export LD_LIBRARY_PATH="/home/student/ros_project_bebop/catkin_ws/devel/.private/drone_control/lib:$LD_LIBRARY_PATH"
-export PKG_CONFIG_PATH="/home/student/ros_project_bebop/catkin_ws/devel/.private/drone_control/lib/pkgconfig:$PKG_CONFIG_PATH"
-export PWD="/home/student/ros_project_bebop/catkin_ws/build/drone_control"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/student/ros_project_bebop/catkin_ws/devel/.private/drone_control/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/student/ros_project_bebop/catkin_ws/src/drone_control:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/drone_control:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/drone_control/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/drone_control/lib/pkgconfig:$PKG_CONFIG_PATH"
+export PWD="/home/student/Documents/ros_project_bebop/catkin_ws/build/drone_control"
+export PYTHONPATH="/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/drone_control/lib/python2.7/dist-packages:$PYTHONPATH"
+export ROSLISP_PACKAGE_DIRECTORIES="/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/drone_control/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH="/home/student/Documents/ros_project_bebop/catkin_ws/src/drone_control:$ROS_PACKAGE_PATH"

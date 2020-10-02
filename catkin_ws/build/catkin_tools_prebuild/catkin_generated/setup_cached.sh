@@ -7,11 +7,8 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/student/ros_project_bebop/catkin_ws/devel/.private/catkin_tools_prebuild:$CMAKE_PREFIX_PATH"
-export LD_LIBRARY_PATH="/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu"
-export PATH="/opt/ros/kinetic/bin:/home/student/bin:/home/student/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin"
-export PKG_CONFIG_PATH="/opt/ros/kinetic/lib/pkgconfig:/opt/ros/kinetic/lib/x86_64-linux-gnu/pkgconfig"
-export PWD="/home/student/ros_project_bebop/catkin_ws/build/catkin_tools_prebuild"
-export PYTHONPATH="/opt/ros/kinetic/lib/python2.7/dist-packages"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/student/ros_project_bebop/catkin_ws/devel/.private/catkin_tools_prebuild/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/student/ros_project_bebop/catkin_ws/build/catkin_tools_prebuild:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/catkin_tools_prebuild:$CMAKE_PREFIX_PATH"
+export PWD="/home/student/Documents/ros_project_bebop/catkin_ws/build/catkin_tools_prebuild"
+export PYTHONPATH="/opt/ros/kinetic/lib/python2.7/dist-packages:/usr/lib/python2.7/dist-packages:/home/student/pynaoqi-python2.7-2.5.5.5-linux64/lib/python2.7/site-packages"
+export ROSLISP_PACKAGE_DIRECTORIES="/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/catkin_tools_prebuild/share/common-lisp"
+export ROS_PACKAGE_PATH="/home/student/Documents/ros_project_bebop/catkin_ws/build/catkin_tools_prebuild:$ROS_PACKAGE_PATH"

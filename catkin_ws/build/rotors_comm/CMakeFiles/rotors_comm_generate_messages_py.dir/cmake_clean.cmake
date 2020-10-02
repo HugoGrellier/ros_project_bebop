@@ -1,10 +1,10 @@
 file(REMOVE_RECURSE
   "CMakeFiles/rotors_comm_generate_messages_py"
-  "/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/lib/python2.7/dist-packages/rotors_comm/msg/_WindSpeed.py"
-  "/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/lib/python2.7/dist-packages/rotors_comm/srv/_Octomap.py"
-  "/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/lib/python2.7/dist-packages/rotors_comm/srv/_RecordRosbag.py"
-  "/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/lib/python2.7/dist-packages/rotors_comm/msg/__init__.py"
-  "/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/lib/python2.7/dist-packages/rotors_comm/srv/__init__.py"
+  "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/lib/python2.7/dist-packages/rotors_comm/msg/_WindSpeed.py"
+  "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/lib/python2.7/dist-packages/rotors_comm/srv/_RecordRosbag.py"
+  "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/lib/python2.7/dist-packages/rotors_comm/srv/_Octomap.py"
+  "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/lib/python2.7/dist-packages/rotors_comm/msg/__init__.py"
+  "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/lib/python2.7/dist-packages/rotors_comm/srv/__init__.py"
 )
 
 # Per-language clean rules from dependency scanning.

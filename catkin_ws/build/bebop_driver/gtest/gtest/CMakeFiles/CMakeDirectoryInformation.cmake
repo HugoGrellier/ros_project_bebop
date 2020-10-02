@@ -3,7 +3,7 @@
 
 # Relative path conversion top directories.
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "/usr/src/gtest")
-set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/student/ros_project_bebop/catkin_ws/build/bebop_driver")
+set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/student/Documents/ros_project_bebop/catkin_ws/build/bebop_driver")
 
 # Force unix paths in dependencies.
 set(CMAKE_FORCE_UNIX_PATHS 1)

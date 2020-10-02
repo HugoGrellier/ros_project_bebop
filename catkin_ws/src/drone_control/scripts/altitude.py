@@ -37,7 +37,7 @@
 ## to the 'chatter' topic
 
 import rospy
-from std_msgs.msg import String
+from std_msgs.msg import String,Float32
 from nav_msgs.msg import Odometry
 class listener:
     def __init__(self):
@@ -47,7 +47,7 @@ class listener:
         # name for our 'listener' node so that multiple listeners can
         # run simultaneously.
         rospy.init_node('listener_altitude', anonymous=True)
-        self.pub = rospy.Publisher('altitude', float, queue_size=10)
+        self.pub = rospy.Publisher('altitude', Float32, queue_size=10)
         self.sub= rospy.Subscriber('bebop/odom', Odometry, self.callback)
         rospy.loginfo("[listener] started...")
         

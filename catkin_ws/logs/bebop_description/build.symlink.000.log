@@ -1,3 +1,13 @@
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_description/cmake/bebop_descriptionConfig-version.cmake
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_description/cmake/bebop_descriptionConfig.cmake
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/bebop_description.pc
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/bebop_description/cmake/bebop_descriptionConfig-version.cmake
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/bebop_description/cmake/bebop_descriptionConfig.cmake
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/bebop_description.pc
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_description/cmake.lock, /home/student/ros_project_bebop/catkin_ws/devel/./cmake.lock)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_description/share/bebop_description/cmake/bebop_descriptionConfig-version.cmake, /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_description/cmake/bebop_descriptionConfig-version.cmake)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_description/share/bebop_description/cmake/bebop_descriptionConfig.cmake, /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_description/cmake/bebop_descriptionConfig.cmake)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_description/lib/pkgconfig/bebop_description.pc, /home/student/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/bebop_description.pc)
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_description/cmake/bebop_descriptionConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_description/cmake/bebop_descriptionConfig.cmake
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/bebop_description.pc
+Already unlinked: {}

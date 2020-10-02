@@ -1,9 +1,37 @@
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/rotors_gazebo/waypoint_publisher
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/rotors_gazebo/velocity_control_by_dronet
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/rotors_gazebo/hovering_example
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/rotors_gazebo/fake_driver
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/rotors_gazebo/waypoint_publisher_file
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/rotors_gazebo/velocity_control_with_joy
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/rotors_gazebo.pc
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/rotors_gazebo/waypoint_publisher
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/rotors_gazebo/velocity_control_by_dronet
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/rotors_gazebo/hovering_example
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/rotors_gazebo/fake_driver
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/rotors_gazebo/waypoint_publisher_file
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/rotors_gazebo/velocity_control_with_joy
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/rotors_gazebo.pc
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/cmake.lock, /home/student/ros_project_bebop/catkin_ws/devel/./cmake.lock)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake, /home/student/ros_project_bebop/catkin_ws/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake, /home/student/ros_project_bebop/catkin_ws/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/waypoint_publisher, /home/student/ros_project_bebop/catkin_ws/devel/lib/rotors_gazebo/waypoint_publisher)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_by_dronet, /home/student/ros_project_bebop/catkin_ws/devel/lib/rotors_gazebo/velocity_control_by_dronet)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/hovering_example, /home/student/ros_project_bebop/catkin_ws/devel/lib/rotors_gazebo/hovering_example)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/fake_driver, /home/student/ros_project_bebop/catkin_ws/devel/lib/rotors_gazebo/fake_driver)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/waypoint_publisher_file, /home/student/ros_project_bebop/catkin_ws/devel/lib/rotors_gazebo/waypoint_publisher_file)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy, /home/student/ros_project_bebop/catkin_ws/devel/lib/rotors_gazebo/velocity_control_with_joy)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/pkgconfig/rotors_gazebo.pc, /home/student/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/rotors_gazebo.pc)
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/rotors_gazebo/waypoint_publisher
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/rotors_gazebo/velocity_control_by_dronet
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/rotors_gazebo/hovering_example
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/rotors_gazebo/fake_driver
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/rotors_gazebo/waypoint_publisher_file
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/rotors_gazebo/velocity_control_with_joy
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/rotors_gazebo.pc
+Already unlinked: {}

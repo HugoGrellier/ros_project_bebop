@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/rotors_comm_generate_messages_lisp"
-  "/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/common-lisp/ros/rotors_comm/msg/WindSpeed.lisp"
-  "/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/common-lisp/ros/rotors_comm/srv/Octomap.lisp"
-  "/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/common-lisp/ros/rotors_comm/srv/RecordRosbag.lisp"
+  "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/common-lisp/ros/rotors_comm/msg/WindSpeed.lisp"
+  "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/common-lisp/ros/rotors_comm/srv/RecordRosbag.lisp"
+  "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/common-lisp/ros/rotors_comm/srv/Octomap.lisp"
 )
 
 # Per-language clean rules from dependency scanning.

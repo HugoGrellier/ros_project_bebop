@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/student/ros_project_bebop/catkin_ws/src/bebop_autonomy/bebop_tools
+CMAKE_SOURCE_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/src/bebop_autonomy/bebop_tools
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/student/ros_project_bebop/catkin_ws/build/bebop_tools
+CMAKE_BINARY_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/build/bebop_tools
 
 # Utility rule file for bebop_msgs_generate_messages_nodejs.
 
@@ -67,6 +67,6 @@ CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/clean:
 .PHONY : CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/clean
 
 CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/depend:
-	cd /home/student/ros_project_bebop/catkin_ws/build/bebop_tools && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/ros_project_bebop/catkin_ws/src/bebop_autonomy/bebop_tools /home/student/ros_project_bebop/catkin_ws/src/bebop_autonomy/bebop_tools /home/student/ros_project_bebop/catkin_ws/build/bebop_tools /home/student/ros_project_bebop/catkin_ws/build/bebop_tools /home/student/ros_project_bebop/catkin_ws/build/bebop_tools/CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/student/Documents/ros_project_bebop/catkin_ws/build/bebop_tools && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/Documents/ros_project_bebop/catkin_ws/src/bebop_autonomy/bebop_tools /home/student/Documents/ros_project_bebop/catkin_ws/src/bebop_autonomy/bebop_tools /home/student/Documents/ros_project_bebop/catkin_ws/build/bebop_tools /home/student/Documents/ros_project_bebop/catkin_ws/build/bebop_tools /home/student/Documents/ros_project_bebop/catkin_ws/build/bebop_tools/CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/bebop_msgs_generate_messages_nodejs.dir/depend
 

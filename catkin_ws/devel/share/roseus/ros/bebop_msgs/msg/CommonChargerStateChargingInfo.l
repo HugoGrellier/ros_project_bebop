@@ -1,1 +1,1 @@
-/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_msgs/share/roseus/ros/bebop_msgs/msg/CommonChargerStateChargingInfo.l
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/bebop_msgs/share/roseus/ros/bebop_msgs/msg/CommonChargerStateChargingInfo.l
