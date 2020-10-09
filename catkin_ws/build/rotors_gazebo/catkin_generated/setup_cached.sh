@@ -7,7 +7,7 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo:$CMAKE_PREFIX_PATH"
-export PWD="/home/student/ros_project_bebop/catkin_ws/build/rotors_gazebo"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo:$CMAKE_PREFIX_PATH"
+export PWD="/home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_gazebo"
+export ROSLISP_PACKAGE_DIRECTORIES="/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH="/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo:$ROS_PACKAGE_PATH"

@@ -67,14 +67,14 @@ set(wiimote_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("TRUE" STREQUAL "TRUE")
-  set(wiimote_SOURCE_PREFIX /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote)
-  set(wiimote_DEVEL_PREFIX /home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote)
+  set(wiimote_SOURCE_PREFIX /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote)
+  set(wiimote_DEVEL_PREFIX /home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote)
   set(wiimote_INSTALL_PREFIX "")
   set(wiimote_PREFIX ${wiimote_DEVEL_PREFIX})
 else()
   set(wiimote_SOURCE_PREFIX "")
   set(wiimote_DEVEL_PREFIX "")
-  set(wiimote_INSTALL_PREFIX /home/student/ros_project_bebop/catkin_ws/install)
+  set(wiimote_INSTALL_PREFIX /home/student/Documents/ros_project_bebop/catkin_ws/install)
   set(wiimote_PREFIX ${wiimote_INSTALL_PREFIX})
 endif()
 
@@ -91,9 +91,9 @@ endif()
 # flag project as catkin-based to distinguish if a find_package()-ed project is a catkin project
 set(wiimote_FOUND_CATKIN_PROJECT TRUE)
 
-if(NOT "/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/include;/home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/include " STREQUAL " ")
+if(NOT "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/include;/home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/include " STREQUAL " ")
   set(wiimote_INCLUDE_DIRS "")
-  set(_include_dirs "/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/include;/home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/include")
+  set(_include_dirs "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/include;/home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/include")
   if(NOT "https://github.com/ros-drivers/joystick_drivers/issues " STREQUAL " ")
     set(_report "Check the issue tracker 'https://github.com/ros-drivers/joystick_drivers/issues' and consider creating a ticket if the problem has not been reported yet.")
   elseif(NOT "http://www.ros.org/wiki/wiimote " STREQUAL " ")
@@ -110,7 +110,7 @@ if(NOT "/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/include
         message(FATAL_ERROR "Project 'wiimote' specifies '${idir}' as an include dir, which is not found.  It does not exist in '${include}'.  ${_report}")
       endif()
     else()
-      message(FATAL_ERROR "Project 'wiimote' specifies '${idir}' as an include dir, which is not found.  It does neither exist as an absolute directory nor in '/home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/${idir}'.  ${_report}")
+      message(FATAL_ERROR "Project 'wiimote' specifies '${idir}' as an include dir, which is not found.  It does neither exist as an absolute directory nor in '/home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/${idir}'.  ${_report}")
     endif()
     _list_append_unique(wiimote_INCLUDE_DIRS ${include})
   endforeach()
@@ -154,7 +154,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib;/home/student/ros_project_bebop/catkin_ws/devel/lib;/opt/ros/kinetic/lib)
+    foreach(path /home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib;/home/student/Documents/ros_project_bebop/catkin_ws/devel/lib;/opt/ros/kinetic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)

@@ -1,1 +1,1 @@
-/home/student/ros_project_bebop/catkin_ws/devel/.private/mavros_msgs/share/roseus/ros/mavros_msgs/srv/CommandTriggerControl.l
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/mavros_msgs/share/roseus/ros/mavros_msgs/srv/CommandTriggerControl.l

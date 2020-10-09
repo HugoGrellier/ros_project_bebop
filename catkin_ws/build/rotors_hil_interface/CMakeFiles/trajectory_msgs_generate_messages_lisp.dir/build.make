@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_hil_interface
+CMAKE_SOURCE_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_hil_interface
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/student/ros_project_bebop/catkin_ws/build/rotors_hil_interface
+CMAKE_BINARY_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_hil_interface
 
 # Utility rule file for trajectory_msgs_generate_messages_lisp.
 
@@ -67,6 +67,6 @@ CMakeFiles/trajectory_msgs_generate_messages_lisp.dir/clean:
 .PHONY : CMakeFiles/trajectory_msgs_generate_messages_lisp.dir/clean
 
 CMakeFiles/trajectory_msgs_generate_messages_lisp.dir/depend:
-	cd /home/student/ros_project_bebop/catkin_ws/build/rotors_hil_interface && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_hil_interface /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_hil_interface /home/student/ros_project_bebop/catkin_ws/build/rotors_hil_interface /home/student/ros_project_bebop/catkin_ws/build/rotors_hil_interface /home/student/ros_project_bebop/catkin_ws/build/rotors_hil_interface/CMakeFiles/trajectory_msgs_generate_messages_lisp.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_hil_interface && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_hil_interface /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_hil_interface /home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_hil_interface /home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_hil_interface /home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_hil_interface/CMakeFiles/trajectory_msgs_generate_messages_lisp.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/trajectory_msgs_generate_messages_lisp.dir/depend
 

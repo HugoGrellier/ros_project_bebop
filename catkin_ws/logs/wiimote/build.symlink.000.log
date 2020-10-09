@@ -1,32 +1,129 @@
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/include/wiimote/TimedSwitch.h
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/include/wiimote/State.h
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/include/wiimote/IrSourceInfo.h
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/wiimote/manifest.l
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/wiimote/msg/IrSourceInfo.l
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/wiimote/msg/TimedSwitch.l
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/wiimote/msg/State.l
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/TimedSwitch.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/_package_State.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/_package.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/wiimote-msg.asd
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/State.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/IrSourceInfo.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/_package_TimedSwitch.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/_package_IrSourceInfo.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/wiimote/cmake/wiimote-msg-paths.cmake
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/wiimote/cmake/wiimoteConfig.cmake
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/wiimote/cmake/wiimote-msg-extras.cmake
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/wiimote/cmake/wiimoteConfig-version.cmake
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/wiimote/_index.js
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/wiimote/msg/IrSourceInfo.js
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/wiimote/msg/TimedSwitch.js
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/wiimote/msg/_index.js
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/wiimote/msg/State.js
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/wiimote/__init__.py
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/wiimote/msg/__init__.py
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/wiimote/msg/_State.py
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/wiimote/msg/_TimedSwitch.py
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/wiimote/msg/_IrSourceInfo.py
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/wiimote/teleop_wiimote
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/wiimote/wiimote_node
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/wiimote.pc
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/include/wiimote/TimedSwitch.h
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/include/wiimote/State.h
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/include/wiimote/IrSourceInfo.h
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/roseus/ros/wiimote/manifest.l
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/roseus/ros/wiimote/msg/IrSourceInfo.l
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/roseus/ros/wiimote/msg/TimedSwitch.l
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/roseus/ros/wiimote/msg/State.l
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/TimedSwitch.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/_package_State.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/_package.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/wiimote-msg.asd
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/State.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/IrSourceInfo.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/_package_TimedSwitch.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/_package_IrSourceInfo.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/wiimote/cmake/wiimote-msg-paths.cmake
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/wiimote/cmake/wiimoteConfig.cmake
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/wiimote/cmake/wiimote-msg-extras.cmake
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/wiimote/cmake/wiimoteConfig-version.cmake
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/wiimote/_index.js
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/wiimote/msg/IrSourceInfo.js
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/wiimote/msg/TimedSwitch.js
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/wiimote/msg/_index.js
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/wiimote/msg/State.js
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/wiimote/__init__.py
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/wiimote/msg/__init__.py
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/wiimote/msg/_State.py
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/wiimote/msg/_TimedSwitch.py
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/wiimote/msg/_IrSourceInfo.py
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/wiimote/teleop_wiimote
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/wiimote/wiimote_node
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/wiimote.pc
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/cmake.lock, /home/student/ros_project_bebop/catkin_ws/devel/./cmake.lock)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/include/wiimote/TimedSwitch.h, /home/student/ros_project_bebop/catkin_ws/devel/include/wiimote/TimedSwitch.h)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/include/wiimote/State.h, /home/student/ros_project_bebop/catkin_ws/devel/include/wiimote/State.h)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/include/wiimote/IrSourceInfo.h, /home/student/ros_project_bebop/catkin_ws/devel/include/wiimote/IrSourceInfo.h)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/roseus/ros/wiimote/manifest.l, /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/wiimote/manifest.l)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/roseus/ros/wiimote/msg/IrSourceInfo.l, /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/wiimote/msg/IrSourceInfo.l)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/roseus/ros/wiimote/msg/TimedSwitch.l, /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/wiimote/msg/TimedSwitch.l)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/roseus/ros/wiimote/msg/State.l, /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/wiimote/msg/State.l)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/common-lisp/ros/wiimote/msg/TimedSwitch.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/TimedSwitch.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/common-lisp/ros/wiimote/msg/_package_State.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/_package_State.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/common-lisp/ros/wiimote/msg/_package.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/_package.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/common-lisp/ros/wiimote/msg/wiimote-msg.asd, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/wiimote-msg.asd)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/common-lisp/ros/wiimote/msg/State.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/State.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/common-lisp/ros/wiimote/msg/IrSourceInfo.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/IrSourceInfo.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/common-lisp/ros/wiimote/msg/_package_TimedSwitch.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/_package_TimedSwitch.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/common-lisp/ros/wiimote/msg/_package_IrSourceInfo.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/_package_IrSourceInfo.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/wiimote/cmake/wiimote-msg-paths.cmake, /home/student/ros_project_bebop/catkin_ws/devel/share/wiimote/cmake/wiimote-msg-paths.cmake)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/wiimote/cmake/wiimoteConfig.cmake, /home/student/ros_project_bebop/catkin_ws/devel/share/wiimote/cmake/wiimoteConfig.cmake)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/wiimote/cmake/wiimote-msg-extras.cmake, /home/student/ros_project_bebop/catkin_ws/devel/share/wiimote/cmake/wiimote-msg-extras.cmake)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/wiimote/cmake/wiimoteConfig-version.cmake, /home/student/ros_project_bebop/catkin_ws/devel/share/wiimote/cmake/wiimoteConfig-version.cmake)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/gennodejs/ros/wiimote/_index.js, /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/wiimote/_index.js)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/gennodejs/ros/wiimote/msg/IrSourceInfo.js, /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/wiimote/msg/IrSourceInfo.js)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/gennodejs/ros/wiimote/msg/TimedSwitch.js, /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/wiimote/msg/TimedSwitch.js)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/gennodejs/ros/wiimote/msg/_index.js, /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/wiimote/msg/_index.js)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/share/gennodejs/ros/wiimote/msg/State.js, /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/wiimote/msg/State.js)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/python2.7/dist-packages/wiimote/__init__.py, /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/wiimote/__init__.py)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/python2.7/dist-packages/wiimote/msg/__init__.py, /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/wiimote/msg/__init__.py)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/python2.7/dist-packages/wiimote/msg/_State.py, /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/wiimote/msg/_State.py)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/python2.7/dist-packages/wiimote/msg/_TimedSwitch.py, /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/wiimote/msg/_TimedSwitch.py)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/python2.7/dist-packages/wiimote/msg/_IrSourceInfo.py, /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/wiimote/msg/_IrSourceInfo.py)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/teleop_wiimote, /home/student/ros_project_bebop/catkin_ws/devel/lib/wiimote/teleop_wiimote)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/wiimote/wiimote_node, /home/student/ros_project_bebop/catkin_ws/devel/lib/wiimote/wiimote_node)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/lib/pkgconfig/wiimote.pc, /home/student/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/wiimote.pc)
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/include/wiimote/TimedSwitch.h
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/include/wiimote/State.h
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/include/wiimote/IrSourceInfo.h
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/wiimote/manifest.l
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/wiimote/msg/IrSourceInfo.l
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/wiimote/msg/TimedSwitch.l
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/wiimote/msg/State.l
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/TimedSwitch.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/_package_State.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/_package.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/wiimote-msg.asd
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/State.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/IrSourceInfo.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/_package_TimedSwitch.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/wiimote/msg/_package_IrSourceInfo.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/wiimote/cmake/wiimote-msg-paths.cmake
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/wiimote/cmake/wiimoteConfig.cmake
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/wiimote/cmake/wiimote-msg-extras.cmake
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/wiimote/cmake/wiimoteConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/wiimote/_index.js
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/wiimote/msg/IrSourceInfo.js
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/wiimote/msg/TimedSwitch.js
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/wiimote/msg/_index.js
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/wiimote/msg/State.js
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/wiimote/__init__.py
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/wiimote/msg/__init__.py
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/wiimote/msg/_State.py
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/wiimote/msg/_TimedSwitch.py
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/wiimote/msg/_IrSourceInfo.py
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/wiimote/teleop_wiimote
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/wiimote/wiimote_node
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/wiimote.pc
+Already unlinked: {}

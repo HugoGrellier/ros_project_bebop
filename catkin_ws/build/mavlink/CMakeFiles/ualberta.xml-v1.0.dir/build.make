@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink
+CMAKE_SOURCE_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/student/ros_project_bebop/catkin_ws/build/mavlink
+CMAKE_BINARY_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/build/mavlink
 
 # Utility rule file for ualberta.xml-v1.0.
 
@@ -56,11 +56,11 @@ include CMakeFiles/ualberta.xml-v1.0.dir/progress.make
 CMakeFiles/ualberta.xml-v1.0: include/v1.0/ualberta/ualberta.h
 
 
-include/v1.0/ualberta/ualberta.h: /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink/message_definitions/v1.0/ualberta.xml
-include/v1.0/ualberta/ualberta.h: /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink/message_definitions/v1.0/common.xml
-include/v1.0/ualberta/ualberta.h: /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink/pymavlink/tools/mavgen.py
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/student/ros_project_bebop/catkin_ws/build/mavlink/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating include/v1.0/ualberta/ualberta.h"
-	/usr/bin/env PYTHONPATH="/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink:/opt/ros/kinetic/lib/python2.7/dist-packages" /usr/bin/python /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink/pymavlink/tools/mavgen.py --lang=C --wire-protocol=1.0 --output=include/v1.0 /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink/message_definitions/v1.0/ualberta.xml
+include/v1.0/ualberta/ualberta.h: /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink/message_definitions/v1.0/ualberta.xml
+include/v1.0/ualberta/ualberta.h: /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink/message_definitions/v1.0/common.xml
+include/v1.0/ualberta/ualberta.h: /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink/pymavlink/tools/mavgen.py
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/student/Documents/ros_project_bebop/catkin_ws/build/mavlink/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating include/v1.0/ualberta/ualberta.h"
+	/usr/bin/env PYTHONPATH="/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink:/opt/ros/kinetic/lib/python2.7/dist-packages:/usr/lib/python2.7/dist-packages:/home/student/pynaoqi-python2.7-2.5.5.5-linux64/lib/python2.7/site-packages" /usr/bin/python /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink/pymavlink/tools/mavgen.py --lang=C --wire-protocol=1.0 --output=include/v1.0 /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink/message_definitions/v1.0/ualberta.xml
 
 ualberta.xml-v1.0: CMakeFiles/ualberta.xml-v1.0
 ualberta.xml-v1.0: include/v1.0/ualberta/ualberta.h
@@ -78,6 +78,6 @@ CMakeFiles/ualberta.xml-v1.0.dir/clean:
 .PHONY : CMakeFiles/ualberta.xml-v1.0.dir/clean
 
 CMakeFiles/ualberta.xml-v1.0.dir/depend:
-	cd /home/student/ros_project_bebop/catkin_ws/build/mavlink && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink /home/student/ros_project_bebop/catkin_ws/build/mavlink /home/student/ros_project_bebop/catkin_ws/build/mavlink /home/student/ros_project_bebop/catkin_ws/build/mavlink/CMakeFiles/ualberta.xml-v1.0.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/student/Documents/ros_project_bebop/catkin_ws/build/mavlink && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mavlink /home/student/Documents/ros_project_bebop/catkin_ws/build/mavlink /home/student/Documents/ros_project_bebop/catkin_ws/build/mavlink /home/student/Documents/ros_project_bebop/catkin_ws/build/mavlink/CMakeFiles/ualberta.xml-v1.0.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/ualberta.xml-v1.0.dir/depend
 

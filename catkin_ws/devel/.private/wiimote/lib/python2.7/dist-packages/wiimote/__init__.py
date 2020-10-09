@@ -7,7 +7,7 @@ from sys import path as sys_path
 
 from pkgutil import extend_path
 
-__extended_path = "/home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/src".split(";")
+__extended_path = "/home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/src".split(";")
 for p in reversed(__extended_path):
     sys_path.insert(0, p)
     del p

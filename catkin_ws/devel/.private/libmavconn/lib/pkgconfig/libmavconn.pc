@@ -1,8 +1,8 @@
-prefix=/home/student/ros_project_bebop/catkin_ws/devel/.private/libmavconn
+prefix=/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/libmavconn
 
 Name: libmavconn
 Description: Description of libmavconn
 Version: 0.17.5
-Cflags: -I/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/libmavconn/include -I/usr/include -I/home/student/ros_project_bebop/catkin_ws/devel/include
+Cflags: -I/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/libmavconn/include -I/usr/include -I/home/student/Documents/ros_project_bebop/catkin_ws/devel/include
 Libs: -L${prefix}/lib -lmavconn /usr/lib/x86_64-linux-gnu/libboost_system.so /usr/lib/x86_64-linux-gnu/libconsole_bridge.so
 Requires: 

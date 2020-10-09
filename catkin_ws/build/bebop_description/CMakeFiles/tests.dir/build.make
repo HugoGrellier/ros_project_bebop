@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/student/ros_project_bebop/catkin_ws/src/bebop_autonomy/bebop_description
+CMAKE_SOURCE_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/src/bebop_autonomy/bebop_description
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/student/ros_project_bebop/catkin_ws/build/bebop_description
+CMAKE_BINARY_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/build/bebop_description
 
 # Utility rule file for tests.
 
@@ -67,6 +67,6 @@ CMakeFiles/tests.dir/clean:
 .PHONY : CMakeFiles/tests.dir/clean
 
 CMakeFiles/tests.dir/depend:
-	cd /home/student/ros_project_bebop/catkin_ws/build/bebop_description && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/ros_project_bebop/catkin_ws/src/bebop_autonomy/bebop_description /home/student/ros_project_bebop/catkin_ws/src/bebop_autonomy/bebop_description /home/student/ros_project_bebop/catkin_ws/build/bebop_description /home/student/ros_project_bebop/catkin_ws/build/bebop_description /home/student/ros_project_bebop/catkin_ws/build/bebop_description/CMakeFiles/tests.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/student/Documents/ros_project_bebop/catkin_ws/build/bebop_description && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/Documents/ros_project_bebop/catkin_ws/src/bebop_autonomy/bebop_description /home/student/Documents/ros_project_bebop/catkin_ws/src/bebop_autonomy/bebop_description /home/student/Documents/ros_project_bebop/catkin_ws/build/bebop_description /home/student/Documents/ros_project_bebop/catkin_ws/build/bebop_description /home/student/Documents/ros_project_bebop/catkin_ws/build/bebop_description/CMakeFiles/tests.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/tests.dir/depend
 

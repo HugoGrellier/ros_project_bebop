@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo_plugins
+CMAKE_SOURCE_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo_plugins
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/student/ros_project_bebop/catkin_ws/build/rotors_gazebo_plugins
+CMAKE_BINARY_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_gazebo_plugins
 
 # Utility rule file for rotors_comm_generate_messages_py.
 
@@ -67,6 +67,6 @@ CMakeFiles/rotors_comm_generate_messages_py.dir/clean:
 .PHONY : CMakeFiles/rotors_comm_generate_messages_py.dir/clean
 
 CMakeFiles/rotors_comm_generate_messages_py.dir/depend:
-	cd /home/student/ros_project_bebop/catkin_ws/build/rotors_gazebo_plugins && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo_plugins /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo_plugins /home/student/ros_project_bebop/catkin_ws/build/rotors_gazebo_plugins /home/student/ros_project_bebop/catkin_ws/build/rotors_gazebo_plugins /home/student/ros_project_bebop/catkin_ws/build/rotors_gazebo_plugins/CMakeFiles/rotors_comm_generate_messages_py.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_gazebo_plugins && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo_plugins /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo_plugins /home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_gazebo_plugins /home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_gazebo_plugins /home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_gazebo_plugins/CMakeFiles/rotors_comm_generate_messages_py.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/rotors_comm_generate_messages_py.dir/depend
 

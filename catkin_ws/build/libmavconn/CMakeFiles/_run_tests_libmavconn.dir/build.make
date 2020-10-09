@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/libmavconn
+CMAKE_SOURCE_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/libmavconn
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/student/ros_project_bebop/catkin_ws/build/libmavconn
+CMAKE_BINARY_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/build/libmavconn
 
 # Utility rule file for _run_tests_libmavconn.
 
@@ -67,6 +67,6 @@ CMakeFiles/_run_tests_libmavconn.dir/clean:
 .PHONY : CMakeFiles/_run_tests_libmavconn.dir/clean
 
 CMakeFiles/_run_tests_libmavconn.dir/depend:
-	cd /home/student/ros_project_bebop/catkin_ws/build/libmavconn && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/libmavconn /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/libmavconn /home/student/ros_project_bebop/catkin_ws/build/libmavconn /home/student/ros_project_bebop/catkin_ws/build/libmavconn /home/student/ros_project_bebop/catkin_ws/build/libmavconn/CMakeFiles/_run_tests_libmavconn.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/student/Documents/ros_project_bebop/catkin_ws/build/libmavconn && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/libmavconn /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/libmavconn /home/student/Documents/ros_project_bebop/catkin_ws/build/libmavconn /home/student/Documents/ros_project_bebop/catkin_ws/build/libmavconn /home/student/Documents/ros_project_bebop/catkin_ws/build/libmavconn/CMakeFiles/_run_tests_libmavconn.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/_run_tests_libmavconn.dir/depend
 

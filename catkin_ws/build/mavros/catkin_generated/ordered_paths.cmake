@@ -1,1 +1,1 @@
-set(ORDERED_PATHS "/home/student/ros_project_bebop/catkin_ws/devel/.private/libmavconn/lib;/opt/ros/kinetic/lib")
+set(ORDERED_PATHS "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/libmavconn/lib;/opt/ros/kinetic/lib")

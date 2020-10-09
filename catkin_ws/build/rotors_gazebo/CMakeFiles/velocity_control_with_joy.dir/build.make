@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo
+CMAKE_SOURCE_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/student/ros_project_bebop/catkin_ws/build/rotors_gazebo
+CMAKE_BINARY_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_gazebo
 
 # Include any dependencies generated for this target.
 include CMakeFiles/velocity_control_with_joy.dir/depend.make
@@ -58,17 +58,17 @@ include CMakeFiles/velocity_control_with_joy.dir/progress.make
 include CMakeFiles/velocity_control_with_joy.dir/flags.make
 
 CMakeFiles/velocity_control_with_joy.dir/src/velocity_control_with_joy.cpp.o: CMakeFiles/velocity_control_with_joy.dir/flags.make
-CMakeFiles/velocity_control_with_joy.dir/src/velocity_control_with_joy.cpp.o: /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo/src/velocity_control_with_joy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/student/ros_project_bebop/catkin_ws/build/rotors_gazebo/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/velocity_control_with_joy.dir/src/velocity_control_with_joy.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/velocity_control_with_joy.dir/src/velocity_control_with_joy.cpp.o -c /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo/src/velocity_control_with_joy.cpp
+CMakeFiles/velocity_control_with_joy.dir/src/velocity_control_with_joy.cpp.o: /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo/src/velocity_control_with_joy.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_gazebo/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/velocity_control_with_joy.dir/src/velocity_control_with_joy.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/velocity_control_with_joy.dir/src/velocity_control_with_joy.cpp.o -c /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo/src/velocity_control_with_joy.cpp
 
 CMakeFiles/velocity_control_with_joy.dir/src/velocity_control_with_joy.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/velocity_control_with_joy.dir/src/velocity_control_with_joy.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo/src/velocity_control_with_joy.cpp > CMakeFiles/velocity_control_with_joy.dir/src/velocity_control_with_joy.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo/src/velocity_control_with_joy.cpp > CMakeFiles/velocity_control_with_joy.dir/src/velocity_control_with_joy.cpp.i
 
 CMakeFiles/velocity_control_with_joy.dir/src/velocity_control_with_joy.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/velocity_control_with_joy.dir/src/velocity_control_with_joy.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo/src/velocity_control_with_joy.cpp -o CMakeFiles/velocity_control_with_joy.dir/src/velocity_control_with_joy.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo/src/velocity_control_with_joy.cpp -o CMakeFiles/velocity_control_with_joy.dir/src/velocity_control_with_joy.cpp.s
 
 CMakeFiles/velocity_control_with_joy.dir/src/velocity_control_with_joy.cpp.o.requires:
 
@@ -88,35 +88,35 @@ velocity_control_with_joy_OBJECTS = \
 # External object files for target velocity_control_with_joy
 velocity_control_with_joy_EXTERNAL_OBJECTS =
 
-/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: CMakeFiles/velocity_control_with_joy.dir/src/velocity_control_with_joy.cpp.o
-/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: CMakeFiles/velocity_control_with_joy.dir/build.make
-/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /opt/ros/kinetic/lib/libroscpp.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /usr/lib/x86_64-linux-gnu/libboost_signals.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /opt/ros/kinetic/lib/librosconsole.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /opt/ros/kinetic/lib/librosconsole_log4cxx.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /opt/ros/kinetic/lib/librosconsole_backend_interface.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /usr/lib/x86_64-linux-gnu/libboost_regex.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /opt/ros/kinetic/lib/libxmlrpcpp.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /opt/ros/kinetic/lib/libeigen_conversions.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /opt/ros/kinetic/lib/liborocos-kdl.so.1.3.2
-/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /opt/ros/kinetic/lib/libroscpp_serialization.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /opt/ros/kinetic/lib/librostime.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /opt/ros/kinetic/lib/libcpp_common.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /usr/lib/x86_64-linux-gnu/libboost_system.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /usr/lib/x86_64-linux-gnu/libboost_thread.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /usr/lib/x86_64-linux-gnu/libboost_chrono.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /usr/lib/x86_64-linux-gnu/libboost_date_time.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /usr/lib/x86_64-linux-gnu/libboost_atomic.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /usr/lib/x86_64-linux-gnu/libpthread.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so
-/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: CMakeFiles/velocity_control_with_joy.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/student/ros_project_bebop/catkin_ws/build/rotors_gazebo/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable /home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy"
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: CMakeFiles/velocity_control_with_joy.dir/src/velocity_control_with_joy.cpp.o
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: CMakeFiles/velocity_control_with_joy.dir/build.make
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /opt/ros/kinetic/lib/libroscpp.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /usr/lib/x86_64-linux-gnu/libboost_signals.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /opt/ros/kinetic/lib/librosconsole.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /opt/ros/kinetic/lib/librosconsole_log4cxx.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /opt/ros/kinetic/lib/librosconsole_backend_interface.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /usr/lib/x86_64-linux-gnu/libboost_regex.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /opt/ros/kinetic/lib/libxmlrpcpp.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /opt/ros/kinetic/lib/libeigen_conversions.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /opt/ros/kinetic/lib/liborocos-kdl.so.1.3.2
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /opt/ros/kinetic/lib/libroscpp_serialization.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /opt/ros/kinetic/lib/librostime.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /opt/ros/kinetic/lib/libcpp_common.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /usr/lib/x86_64-linux-gnu/libboost_system.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /usr/lib/x86_64-linux-gnu/libboost_thread.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /usr/lib/x86_64-linux-gnu/libboost_chrono.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /usr/lib/x86_64-linux-gnu/libboost_date_time.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /usr/lib/x86_64-linux-gnu/libboost_atomic.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /usr/lib/x86_64-linux-gnu/libpthread.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy: CMakeFiles/velocity_control_with_joy.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_gazebo/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable /home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/velocity_control_with_joy.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/velocity_control_with_joy.dir/build: /home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy
+CMakeFiles/velocity_control_with_joy.dir/build: /home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/velocity_control_with_joy
 
 .PHONY : CMakeFiles/velocity_control_with_joy.dir/build
 
@@ -129,6 +129,6 @@ CMakeFiles/velocity_control_with_joy.dir/clean:
 .PHONY : CMakeFiles/velocity_control_with_joy.dir/clean
 
 CMakeFiles/velocity_control_with_joy.dir/depend:
-	cd /home/student/ros_project_bebop/catkin_ws/build/rotors_gazebo && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo /home/student/ros_project_bebop/catkin_ws/build/rotors_gazebo /home/student/ros_project_bebop/catkin_ws/build/rotors_gazebo /home/student/ros_project_bebop/catkin_ws/build/rotors_gazebo/CMakeFiles/velocity_control_with_joy.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_gazebo && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo /home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_gazebo /home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_gazebo /home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_gazebo/CMakeFiles/velocity_control_with_joy.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/velocity_control_with_joy.dir/depend
 

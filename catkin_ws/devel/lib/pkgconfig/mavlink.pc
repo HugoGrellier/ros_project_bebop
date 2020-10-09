@@ -1,5 +1,5 @@
-prefix=/home/student/ros_project_bebop/catkin_ws/devel
-exec_prefix=/home/student/ros_project_bebop/catkin_ws/devel
+prefix=/home/student/Documents/ros_project_bebop/catkin_ws/devel
+exec_prefix=/home/student/Documents/ros_project_bebop/catkin_ws/devel
 includedir=${prefix}/include
 
 Name: mavlink

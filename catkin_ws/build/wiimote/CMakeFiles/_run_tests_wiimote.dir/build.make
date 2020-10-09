@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote
+CMAKE_SOURCE_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/student/ros_project_bebop/catkin_ws/build/wiimote
+CMAKE_BINARY_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote
 
 # Utility rule file for _run_tests_wiimote.
 
@@ -67,6 +67,6 @@ CMakeFiles/_run_tests_wiimote.dir/clean:
 .PHONY : CMakeFiles/_run_tests_wiimote.dir/clean
 
 CMakeFiles/_run_tests_wiimote.dir/depend:
-	cd /home/student/ros_project_bebop/catkin_ws/build/wiimote && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote /home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote /home/student/ros_project_bebop/catkin_ws/build/wiimote /home/student/ros_project_bebop/catkin_ws/build/wiimote /home/student/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles/_run_tests_wiimote.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote /home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote /home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote /home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote /home/student/Documents/ros_project_bebop/catkin_ws/build/wiimote/CMakeFiles/_run_tests_wiimote.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/_run_tests_wiimote.dir/depend
 

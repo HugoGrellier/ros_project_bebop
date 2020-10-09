@@ -1,3 +1,13 @@
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_tools/cmake/bebop_toolsConfig.cmake
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_tools/cmake/bebop_toolsConfig-version.cmake
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/bebop_tools.pc
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/bebop_tools/cmake/bebop_toolsConfig.cmake
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/bebop_tools/cmake/bebop_toolsConfig-version.cmake
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/bebop_tools.pc
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_tools/cmake.lock, /home/student/ros_project_bebop/catkin_ws/devel/./cmake.lock)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_tools/share/bebop_tools/cmake/bebop_toolsConfig.cmake, /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_tools/cmake/bebop_toolsConfig.cmake)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_tools/share/bebop_tools/cmake/bebop_toolsConfig-version.cmake, /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_tools/cmake/bebop_toolsConfig-version.cmake)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_tools/lib/pkgconfig/bebop_tools.pc, /home/student/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/bebop_tools.pc)
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_tools/cmake/bebop_toolsConfig.cmake
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/bebop_tools/cmake/bebop_toolsConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/bebop_tools.pc
+Already unlinked: {}

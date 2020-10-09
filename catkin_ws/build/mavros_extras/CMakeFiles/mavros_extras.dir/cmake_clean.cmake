@@ -7,8 +7,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/mavros_extras.dir/src/plugins/vision_speed_estimate.cpp.o"
   "CMakeFiles/mavros_extras.dir/src/plugins/vibration.cpp.o"
   "CMakeFiles/mavros_extras.dir/src/plugins/cam_imu_sync.cpp.o"
-  "/home/student/ros_project_bebop/catkin_ws/devel/.private/mavros_extras/lib/libmavros_extras.pdb"
-  "/home/student/ros_project_bebop/catkin_ws/devel/.private/mavros_extras/lib/libmavros_extras.so"
+  "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/mavros_extras/lib/libmavros_extras.pdb"
+  "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/mavros_extras/lib/libmavros_extras.so"
 )
 
 # Per-language clean rules from dependency scanning.

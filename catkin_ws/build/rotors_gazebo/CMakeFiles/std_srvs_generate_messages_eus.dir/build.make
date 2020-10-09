@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo
+CMAKE_SOURCE_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/student/ros_project_bebop/catkin_ws/build/rotors_gazebo
+CMAKE_BINARY_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_gazebo
 
 # Utility rule file for std_srvs_generate_messages_eus.
 
@@ -67,6 +67,6 @@ CMakeFiles/std_srvs_generate_messages_eus.dir/clean:
 .PHONY : CMakeFiles/std_srvs_generate_messages_eus.dir/clean
 
 CMakeFiles/std_srvs_generate_messages_eus.dir/depend:
-	cd /home/student/ros_project_bebop/catkin_ws/build/rotors_gazebo && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo /home/student/ros_project_bebop/catkin_ws/build/rotors_gazebo /home/student/ros_project_bebop/catkin_ws/build/rotors_gazebo /home/student/ros_project_bebop/catkin_ws/build/rotors_gazebo/CMakeFiles/std_srvs_generate_messages_eus.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_gazebo && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_gazebo /home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_gazebo /home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_gazebo /home/student/Documents/ros_project_bebop/catkin_ws/build/rotors_gazebo/CMakeFiles/std_srvs_generate_messages_eus.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/std_srvs_generate_messages_eus.dir/depend
 

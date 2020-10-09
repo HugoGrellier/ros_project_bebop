@@ -4,5 +4,5 @@ PROJECT_PKG_CONFIG_INCLUDE_DIRS = "${prefix}/include".split(';') if "${prefix}/i
 PROJECT_CATKIN_DEPENDS = "geometry_msgs;mav_msgs;mavros;mavros_msgs;roscpp;sensor_msgs".replace(';', ' ')
 PKG_CONFIG_LIBRARIES_WITH_PREFIX = "-lrotors_hil_interface".split(';') if "-lrotors_hil_interface" != "" else []
 PROJECT_NAME = "rotors_hil_interface"
-PROJECT_SPACE_DIR = "/home/student/ros_project_bebop/catkin_ws/install"
+PROJECT_SPACE_DIR = "/home/student/Documents/ros_project_bebop/catkin_ws/install"
 PROJECT_VERSION = "2.1.1"

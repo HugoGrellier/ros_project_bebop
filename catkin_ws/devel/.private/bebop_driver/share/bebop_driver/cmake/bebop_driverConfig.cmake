@@ -67,14 +67,14 @@ set(bebop_driver_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("TRUE" STREQUAL "TRUE")
-  set(bebop_driver_SOURCE_PREFIX /home/student/ros_project_bebop/catkin_ws/src/bebop_autonomy/bebop_driver)
-  set(bebop_driver_DEVEL_PREFIX /home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_driver)
+  set(bebop_driver_SOURCE_PREFIX /home/student/Documents/ros_project_bebop/catkin_ws/src/bebop_autonomy/bebop_driver)
+  set(bebop_driver_DEVEL_PREFIX /home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/bebop_driver)
   set(bebop_driver_INSTALL_PREFIX "")
   set(bebop_driver_PREFIX ${bebop_driver_DEVEL_PREFIX})
 else()
   set(bebop_driver_SOURCE_PREFIX "")
   set(bebop_driver_DEVEL_PREFIX "")
-  set(bebop_driver_INSTALL_PREFIX /home/student/ros_project_bebop/catkin_ws/install)
+  set(bebop_driver_INSTALL_PREFIX /home/student/Documents/ros_project_bebop/catkin_ws/install)
   set(bebop_driver_PREFIX ${bebop_driver_INSTALL_PREFIX})
 endif()
 
@@ -91,9 +91,9 @@ endif()
 # flag project as catkin-based to distinguish if a find_package()-ed project is a catkin project
 set(bebop_driver_FOUND_CATKIN_PROJECT TRUE)
 
-if(NOT "/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/include;/home/student/ros_project_bebop/catkin_ws/src/bebop_autonomy/bebop_driver/include " STREQUAL " ")
+if(NOT "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/include;/home/student/Documents/ros_project_bebop/catkin_ws/src/bebop_autonomy/bebop_driver/include " STREQUAL " ")
   set(bebop_driver_INCLUDE_DIRS "")
-  set(_include_dirs "/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/include;/home/student/ros_project_bebop/catkin_ws/src/bebop_autonomy/bebop_driver/include")
+  set(_include_dirs "/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/include;/home/student/Documents/ros_project_bebop/catkin_ws/src/bebop_autonomy/bebop_driver/include")
   if(NOT " " STREQUAL " ")
     set(_report "Check the issue tracker '' and consider creating a ticket if the problem has not been reported yet.")
   elseif(NOT "http://wiki.ros.org/bebop_driver " STREQUAL " ")
@@ -110,7 +110,7 @@ if(NOT "/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/in
         message(FATAL_ERROR "Project 'bebop_driver' specifies '${idir}' as an include dir, which is not found.  It does not exist in '${include}'.  ${_report}")
       endif()
     else()
-      message(FATAL_ERROR "Project 'bebop_driver' specifies '${idir}' as an include dir, which is not found.  It does neither exist as an absolute directory nor in '/home/student/ros_project_bebop/catkin_ws/src/bebop_autonomy/bebop_driver/${idir}'.  ${_report}")
+      message(FATAL_ERROR "Project 'bebop_driver' specifies '${idir}' as an include dir, which is not found.  It does neither exist as an absolute directory nor in '/home/student/Documents/ros_project_bebop/catkin_ws/src/bebop_autonomy/bebop_driver/${idir}'.  ${_report}")
     endif()
     _list_append_unique(bebop_driver_INCLUDE_DIRS ${include})
   endforeach()
@@ -154,7 +154,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/lib;/home/student/ros_project_bebop/catkin_ws/devel/lib;/opt/ros/kinetic/lib)
+    foreach(path /home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/lib;/home/student/Documents/ros_project_bebop/catkin_ws/devel/lib;/opt/ros/kinetic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)

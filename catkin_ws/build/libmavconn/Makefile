@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/libmavconn
+CMAKE_SOURCE_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mavros/libmavconn
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/student/ros_project_bebop/catkin_ws/build/libmavconn
+CMAKE_BINARY_DIR = /home/student/Documents/ros_project_bebop/catkin_ws/build/libmavconn
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -135,9 +135,9 @@ install/strip/fast: install/strip
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/student/ros_project_bebop/catkin_ws/build/libmavconn/CMakeFiles /home/student/ros_project_bebop/catkin_ws/build/libmavconn/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/student/Documents/ros_project_bebop/catkin_ws/build/libmavconn/CMakeFiles /home/student/Documents/ros_project_bebop/catkin_ws/build/libmavconn/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/student/ros_project_bebop/catkin_ws/build/libmavconn/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/student/Documents/ros_project_bebop/catkin_ws/build/libmavconn/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

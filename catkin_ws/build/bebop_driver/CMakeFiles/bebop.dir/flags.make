@@ -6,5 +6,5 @@ CXX_FLAGS = -fPIC
 
 CXX_DEFINES = -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\"bebop_driver\" -Dbebop_EXPORTS
 
-CXX_INCLUDES = -I/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/include -I/home/student/ros_project_bebop/catkin_ws/devel/.private/bebop_msgs/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/kinetic/share/orocos_kdl/../../include -I/usr/include/eigen3 -I/opt/ros/kinetic/include/parrot_arsdk -I/home/student/ros_project_bebop/catkin_ws/src/bebop_autonomy/bebop_driver/include -I/usr/include/x86_64-linux-gnu 
+CXX_INCLUDES = -I/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/bebop_driver/include -I/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/bebop_msgs/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/kinetic/share/orocos_kdl/../../include -I/usr/include/eigen3 -I/opt/ros/kinetic/include/parrot_arsdk -I/home/student/Documents/ros_project_bebop/catkin_ws/src/bebop_autonomy/bebop_driver/include -I/usr/include/x86_64-linux-gnu 
 

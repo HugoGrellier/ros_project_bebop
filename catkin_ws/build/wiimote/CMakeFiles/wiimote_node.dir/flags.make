@@ -6,5 +6,5 @@ CXX_FLAGS = -fPIE -fPIC -O2 -D_FORTIFY_SOURCE=2 -fstack-protector -Wformat -Wfor
 
 CXX_DEFINES = -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\"wiimote\"
 
-CXX_INCLUDES = -I/home/student/ros_project_bebop/catkin_ws/devel/.private/wiimote/include -I/home/student/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp 
+CXX_INCLUDES = -I/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/wiimote/include -I/home/student/Documents/ros_project_bebop/catkin_ws/src/joystick_drivers/wiimote/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp 
 

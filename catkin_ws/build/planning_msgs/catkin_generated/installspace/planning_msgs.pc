@@ -1,4 +1,4 @@
-prefix=/home/student/ros_project_bebop/catkin_ws/install
+prefix=/home/student/Documents/ros_project_bebop/catkin_ws/install
 
 Name: planning_msgs
 Description: Description of planning_msgs

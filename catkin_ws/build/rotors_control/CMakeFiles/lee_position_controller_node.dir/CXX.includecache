@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/include/mav_msgs/Actuators.h
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/include/mav_msgs/Actuators.h
 string
 -
 vector
@@ -24,7 +24,7 @@ ros/message_operations.h
 std_msgs/Header.h
 -
 
-/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/include/mav_msgs/AttitudeThrust.h
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/include/mav_msgs/AttitudeThrust.h
 string
 -
 vector
@@ -46,7 +46,7 @@ geometry_msgs/Quaternion.h
 geometry_msgs/Vector3.h
 -
 
-/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/include/mav_msgs/RateThrust.h
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/include/mav_msgs/RateThrust.h
 string
 -
 vector
@@ -68,7 +68,7 @@ geometry_msgs/Vector3.h
 geometry_msgs/Vector3.h
 -
 
-/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/include/mav_msgs/RollPitchYawrateThrust.h
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/include/mav_msgs/RollPitchYawrateThrust.h
 string
 -
 vector
@@ -88,7 +88,7 @@ std_msgs/Header.h
 geometry_msgs/Vector3.h
 -
 
-/home/student/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/include/mav_msgs/TorqueThrust.h
+/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/mav_msgs/include/mav_msgs/TorqueThrust.h
 string
 -
 vector
@@ -110,7 +110,7 @@ geometry_msgs/Vector3.h
 geometry_msgs/Vector3.h
 -
 
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/common.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/common.h
 geometry_msgs/Point.h
 -
 geometry_msgs/Quaternion.h
@@ -120,7 +120,7 @@ geometry_msgs/Vector3.h
 Eigen/Geometry
 -
 
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/conversions.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/conversions.h
 geometry_msgs/Point.h
 -
 geometry_msgs/PoseStamped.h
@@ -138,29 +138,29 @@ ros/ros.h
 trajectory_msgs/MultiDOFJointTrajectory.h
 -
 mav_msgs/Actuators.h
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/mav_msgs/Actuators.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/mav_msgs/Actuators.h
 mav_msgs/AttitudeThrust.h
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/mav_msgs/AttitudeThrust.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/mav_msgs/AttitudeThrust.h
 mav_msgs/RateThrust.h
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/mav_msgs/RateThrust.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/mav_msgs/RateThrust.h
 mav_msgs/RollPitchYawrateThrust.h
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/mav_msgs/RollPitchYawrateThrust.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/mav_msgs/RollPitchYawrateThrust.h
 mav_msgs/TorqueThrust.h
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/mav_msgs/TorqueThrust.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/mav_msgs/TorqueThrust.h
 mav_msgs/common.h
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/mav_msgs/common.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/mav_msgs/common.h
 mav_msgs/default_values.h
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/mav_msgs/default_values.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/mav_msgs/default_values.h
 mav_msgs/eigen_mav_msgs.h
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/mav_msgs/eigen_mav_msgs.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/mav_msgs/eigen_mav_msgs.h
 
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/default_topics.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/default_topics.h
 
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/default_values.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/default_values.h
 mav_msgs/common.h
 -
 
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/eigen_mav_msgs.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/eigen_mav_msgs.h
 Eigen/Eigen
 -
 deque
@@ -168,9 +168,9 @@ deque
 iostream
 -
 mav_msgs/common.h
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/mav_msgs/common.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/mav_comm/mav_msgs/include/mav_msgs/mav_msgs/common.h
 
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/include/rotors_control/common.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/include/rotors_control/common.h
 assert.h
 -
 mav_msgs/conversions.h
@@ -180,37 +180,37 @@ mav_msgs/default_topics.h
 nav_msgs/Odometry.h
 -
 rotors_control/parameters.h
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/include/rotors_control/rotors_control/parameters.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/include/rotors_control/rotors_control/parameters.h
 
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/include/rotors_control/lee_position_controller.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/include/rotors_control/lee_position_controller.h
 mav_msgs/conversions.h
 -
 mav_msgs/eigen_mav_msgs.h
 -
 rotors_control/common.h
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/include/rotors_control/rotors_control/common.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/include/rotors_control/rotors_control/common.h
 rotors_control/parameters.h
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/include/rotors_control/rotors_control/parameters.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/include/rotors_control/rotors_control/parameters.h
 
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/include/rotors_control/parameters.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/include/rotors_control/parameters.h
 
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/include/rotors_control/parameters_ros.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/include/rotors_control/parameters_ros.h
 ros/ros.h
 -
 rotors_control/parameters.h
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/include/rotors_control/rotors_control/parameters.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/include/rotors_control/rotors_control/parameters.h
 
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/src/nodes/lee_position_controller_node.cpp
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/src/nodes/lee_position_controller_node.cpp
 ros/ros.h
 -
 mav_msgs/default_topics.h
 -
 lee_position_controller_node.h
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/src/nodes/lee_position_controller_node.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/src/nodes/lee_position_controller_node.h
 rotors_control/parameters_ros.h
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/src/nodes/rotors_control/parameters_ros.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/src/nodes/rotors_control/parameters_ros.h
 
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/src/nodes/lee_position_controller_node.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/src/nodes/lee_position_controller_node.h
 boost/bind.hpp
 -
 Eigen/Eigen
@@ -234,69 +234,9 @@ ros/ros.h
 trajectory_msgs/MultiDOFJointTrajectory.h
 -
 rotors_control/common.h
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/src/nodes/rotors_control/common.h
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/src/nodes/rotors_control/common.h
 rotors_control/lee_position_controller.h
-/home/student/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/src/nodes/rotors_control/lee_position_controller.h
-
-/opt/ros/kinetic/include/boost_161_condition_variable.h
-boost/thread/detail/platform.hpp
--
-boost/thread/win32/condition_variable.hpp
--
-boost_161_pthread_condition_variable.h
-/opt/ros/kinetic/include/boost_161_pthread_condition_variable.h
-
-/opt/ros/kinetic/include/boost_161_pthread_condition_variable.h
-boost_161_pthread_condition_variable_fwd.h
-/opt/ros/kinetic/include/boost_161_pthread_condition_variable_fwd.h
-boost/thread/pthread/timespec.hpp
--
-boost/thread/pthread/pthread_mutex_scoped_lock.hpp
--
-boost/thread/pthread/thread_data.hpp
--
-boost/chrono/system_clocks.hpp
--
-boost/chrono/ceil.hpp
--
-boost/thread/detail/delete.hpp
--
-boost/config/abi_prefix.hpp
--
-boost/config/abi_suffix.hpp
--
-
-/opt/ros/kinetic/include/boost_161_pthread_condition_variable_fwd.h
-boost/assert.hpp
--
-boost/throw_exception.hpp
--
-pthread.h
--
-boost/thread/cv_status.hpp
--
-boost/thread/mutex.hpp
--
-boost/thread/lock_types.hpp
--
-boost/thread/thread_time.hpp
--
-boost/thread/pthread/timespec.hpp
--
-boost/thread/xtime.hpp
--
-boost/chrono/system_clocks.hpp
--
-boost/chrono/ceil.hpp
--
-boost/thread/detail/delete.hpp
--
-boost/date_time/posix_time/posix_time_duration.hpp
--
-boost/config/abi_prefix.hpp
--
-boost/config/abi_suffix.hpp
--
+/home/student/Documents/ros_project_bebop/catkin_ws/src/iROS_drone/rotors_simulator/rotors_control/src/nodes/rotors_control/lee_position_controller.h
 
 /opt/ros/kinetic/include/geometry_msgs/Point.h
 string
@@ -541,16 +481,10 @@ ros/time.h
 /opt/ros/kinetic/include/ros/ros/time.h
 
 /opt/ros/kinetic/include/ros/callback_queue.h
-boost/version.hpp
--
-boost_161_condition_variable.h
-/opt/ros/kinetic/include/ros/boost_161_condition_variable.h
-boost/thread/condition_variable.hpp
--
-boost/thread/condition_variable.hpp
--
 ros/callback_queue_interface.h
 /opt/ros/kinetic/include/ros/ros/callback_queue_interface.h
+ros/internal/condition_variable.h
+/opt/ros/kinetic/include/ros/ros/internal/condition_variable.h
 ros/time.h
 /opt/ros/kinetic/include/ros/ros/time.h
 common.h
@@ -691,6 +625,10 @@ ros/spinner.h
 /opt/ros/kinetic/include/ros/ros/spinner.h
 common.h
 /opt/ros/kinetic/include/ros/common.h
+
+/opt/ros/kinetic/include/ros/internal/condition_variable.h
+boost/thread/condition_variable.hpp
+-
 
 /opt/ros/kinetic/include/ros/macros.h
 

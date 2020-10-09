@@ -1,4 +1,4 @@
-prefix=/home/student/ros_project_bebop/catkin_ws/install
+prefix=/home/student/Documents/ros_project_bebop/catkin_ws/install
 
 Name: test_mavros
 Description: Description of test_mavros

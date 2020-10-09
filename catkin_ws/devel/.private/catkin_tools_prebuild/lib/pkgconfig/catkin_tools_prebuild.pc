@@ -1,4 +1,4 @@
-prefix=/home/student/ros_project_bebop/catkin_ws/devel/.private/catkin_tools_prebuild
+prefix=/home/student/Documents/ros_project_bebop/catkin_ws/devel/.private/catkin_tools_prebuild
 
 Name: catkin_tools_prebuild
 Description: Description of catkin_tools_prebuild

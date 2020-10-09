@@ -1,24 +1,24 @@
 Determining if the pthread_create exist failed with the following output:
-Change Dir: /home/student/ros_project_bebop/catkin_ws/build/ps3joy/CMakeFiles/CMakeTmp
+Change Dir: /home/student/Documents/ros_project_bebop/catkin_ws/build/ps3joy/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_cb95c/fast"
-/usr/bin/make -f CMakeFiles/cmTC_cb95c.dir/build.make CMakeFiles/cmTC_cb95c.dir/build
-make[1] : on entre dans le répertoire « /home/student/ros_project_bebop/catkin_ws/build/ps3joy/CMakeFiles/CMakeTmp »
-Building C object CMakeFiles/cmTC_cb95c.dir/CheckSymbolExists.c.o
-/usr/bin/cc     -o CMakeFiles/cmTC_cb95c.dir/CheckSymbolExists.c.o   -c /home/student/ros_project_bebop/catkin_ws/build/ps3joy/CMakeFiles/CMakeTmp/CheckSymbolExists.c
-Linking C executable cmTC_cb95c
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cb95c.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_cb95c.dir/CheckSymbolExists.c.o  -o cmTC_cb95c -rdynamic 
-CMakeFiles/cmTC_cb95c.dir/CheckSymbolExists.c.o : Dans la fonction « main » :
+Run Build Command:"/usr/bin/make" "cmTC_5262d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5262d.dir/build.make CMakeFiles/cmTC_5262d.dir/build
+make[1] : on entre dans le répertoire « /home/student/Documents/ros_project_bebop/catkin_ws/build/ps3joy/CMakeFiles/CMakeTmp »
+Building C object CMakeFiles/cmTC_5262d.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_5262d.dir/CheckSymbolExists.c.o   -c /home/student/Documents/ros_project_bebop/catkin_ws/build/ps3joy/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_5262d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5262d.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_5262d.dir/CheckSymbolExists.c.o  -o cmTC_5262d -rdynamic 
+CMakeFiles/cmTC_5262d.dir/CheckSymbolExists.c.o : Dans la fonction « main » :
 CheckSymbolExists.c:(.text+0x16) : référence indéfinie vers « pthread_create »
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_cb95c.dir/build.make:97 : la recette pour la cible « cmTC_cb95c » a échouée
-make[1]: *** [cmTC_cb95c] Erreur 1
-make[1] : on quitte le répertoire « /home/student/ros_project_bebop/catkin_ws/build/ps3joy/CMakeFiles/CMakeTmp »
-Makefile:126 : la recette pour la cible « cmTC_cb95c/fast » a échouée
-make: *** [cmTC_cb95c/fast] Erreur 2
+CMakeFiles/cmTC_5262d.dir/build.make:97 : la recette pour la cible « cmTC_5262d » a échouée
+make[1]: *** [cmTC_5262d] Erreur 1
+make[1] : on quitte le répertoire « /home/student/Documents/ros_project_bebop/catkin_ws/build/ps3joy/CMakeFiles/CMakeTmp »
+Makefile:126 : la recette pour la cible « cmTC_5262d/fast » a échouée
+make: *** [cmTC_5262d/fast] Erreur 2
 
-File /home/student/ros_project_bebop/catkin_ws/build/ps3joy/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+File /home/student/Documents/ros_project_bebop/catkin_ws/build/ps3joy/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
 /* */
 #include <pthread.h>
 
@@ -34,22 +34,22 @@ int main(int argc, char** argv)
 }
 
 Determining if the function pthread_create exists in the pthreads failed with the following output:
-Change Dir: /home/student/ros_project_bebop/catkin_ws/build/ps3joy/CMakeFiles/CMakeTmp
+Change Dir: /home/student/Documents/ros_project_bebop/catkin_ws/build/ps3joy/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_7035c/fast"
-/usr/bin/make -f CMakeFiles/cmTC_7035c.dir/build.make CMakeFiles/cmTC_7035c.dir/build
-make[1] : on entre dans le répertoire « /home/student/ros_project_bebop/catkin_ws/build/ps3joy/CMakeFiles/CMakeTmp »
-Building C object CMakeFiles/cmTC_7035c.dir/CheckFunctionExists.c.o
-/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_7035c.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
-Linking C executable cmTC_7035c
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7035c.dir/link.txt --verbose=1
-/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_7035c.dir/CheckFunctionExists.c.o  -o cmTC_7035c -rdynamic -lpthreads 
+Run Build Command:"/usr/bin/make" "cmTC_0a091/fast"
+/usr/bin/make -f CMakeFiles/cmTC_0a091.dir/build.make CMakeFiles/cmTC_0a091.dir/build
+make[1] : on entre dans le répertoire « /home/student/Documents/ros_project_bebop/catkin_ws/build/ps3joy/CMakeFiles/CMakeTmp »
+Building C object CMakeFiles/cmTC_0a091.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_0a091.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_0a091
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0a091.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_0a091.dir/CheckFunctionExists.c.o  -o cmTC_0a091 -rdynamic -lpthreads 
 /usr/bin/ld : ne peut trouver -lpthreads
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_7035c.dir/build.make:97 : la recette pour la cible « cmTC_7035c » a échouée
-make[1]: *** [cmTC_7035c] Erreur 1
-make[1] : on quitte le répertoire « /home/student/ros_project_bebop/catkin_ws/build/ps3joy/CMakeFiles/CMakeTmp »
-Makefile:126 : la recette pour la cible « cmTC_7035c/fast » a échouée
-make: *** [cmTC_7035c/fast] Erreur 2
+CMakeFiles/cmTC_0a091.dir/build.make:97 : la recette pour la cible « cmTC_0a091 » a échouée
+make[1]: *** [cmTC_0a091] Erreur 1
+make[1] : on quitte le répertoire « /home/student/Documents/ros_project_bebop/catkin_ws/build/ps3joy/CMakeFiles/CMakeTmp »
+Makefile:126 : la recette pour la cible « cmTC_0a091/fast » a échouée
+make: *** [cmTC_0a091/fast] Erreur 2
 
 

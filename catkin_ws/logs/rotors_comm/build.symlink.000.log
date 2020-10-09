@@ -1,38 +1,153 @@
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/include/rotors_comm/RecordRosbagResponse.h
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/include/rotors_comm/Octomap.h
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/include/rotors_comm/RecordRosbag.h
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/include/rotors_comm/RecordRosbagRequest.h
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/include/rotors_comm/OctomapRequest.h
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/include/rotors_comm/WindSpeed.h
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/include/rotors_comm/OctomapResponse.h
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/rotors_comm/manifest.l
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/rotors_comm/srv/Octomap.l
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/rotors_comm/srv/RecordRosbag.l
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/rotors_comm/msg/WindSpeed.l
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/srv/_package.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/srv/rotors_comm-srv.asd
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/srv/_package_RecordRosbag.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/srv/_package_Octomap.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/srv/Octomap.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/srv/RecordRosbag.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/msg/WindSpeed.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/msg/rotors_comm-msg.asd
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/msg/_package.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/msg/_package_WindSpeed.lisp
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/rotors_comm/cmake/rotors_comm-msg-extras.cmake
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/rotors_comm/cmake/rotors_commConfig.cmake
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/rotors_comm/cmake/rotors_commConfig-version.cmake
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/rotors_comm/cmake/rotors_comm-msg-paths.cmake
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/rotors_comm/_index.js
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/rotors_comm/srv/RecordRosbag.js
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/rotors_comm/srv/Octomap.js
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/rotors_comm/srv/_index.js
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/rotors_comm/msg/WindSpeed.js
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/rotors_comm/msg/_index.js
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/rotors_comm/__init__.py
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/rotors_comm/srv/_Octomap.py
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/rotors_comm/srv/__init__.py
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/rotors_comm/srv/_RecordRosbag.py
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/rotors_comm/msg/__init__.py
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/rotors_comm/msg/_WindSpeed.py
-Symlinking /home/student/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/rotors_comm.pc
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/include/rotors_comm/RecordRosbagResponse.h
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/include/rotors_comm/Octomap.h
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/include/rotors_comm/RecordRosbag.h
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/include/rotors_comm/RecordRosbagRequest.h
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/include/rotors_comm/OctomapRequest.h
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/include/rotors_comm/WindSpeed.h
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/include/rotors_comm/OctomapResponse.h
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/roseus/ros/rotors_comm/manifest.l
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/roseus/ros/rotors_comm/srv/Octomap.l
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/roseus/ros/rotors_comm/srv/RecordRosbag.l
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/roseus/ros/rotors_comm/msg/WindSpeed.l
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/srv/_package.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/srv/rotors_comm-srv.asd
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/srv/_package_RecordRosbag.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/srv/_package_Octomap.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/srv/Octomap.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/srv/RecordRosbag.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/msg/WindSpeed.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/msg/rotors_comm-msg.asd
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/msg/_package.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/msg/_package_WindSpeed.lisp
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/rotors_comm/cmake/rotors_comm-msg-extras.cmake
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/rotors_comm/cmake/rotors_commConfig.cmake
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/rotors_comm/cmake/rotors_commConfig-version.cmake
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/rotors_comm/cmake/rotors_comm-msg-paths.cmake
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/rotors_comm/_index.js
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/rotors_comm/srv/RecordRosbag.js
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/rotors_comm/srv/Octomap.js
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/rotors_comm/srv/_index.js
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/rotors_comm/msg/WindSpeed.js
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/rotors_comm/msg/_index.js
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/rotors_comm/__init__.py
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/rotors_comm/srv/_Octomap.py
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/rotors_comm/srv/__init__.py
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/rotors_comm/srv/_RecordRosbag.py
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/rotors_comm/msg/__init__.py
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/rotors_comm/msg/_WindSpeed.py
+Symlinking /home/student/Documents/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/rotors_comm.pc
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/cmake.lock, /home/student/ros_project_bebop/catkin_ws/devel/./cmake.lock)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/include/rotors_comm/RecordRosbagResponse.h, /home/student/ros_project_bebop/catkin_ws/devel/include/rotors_comm/RecordRosbagResponse.h)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/include/rotors_comm/Octomap.h, /home/student/ros_project_bebop/catkin_ws/devel/include/rotors_comm/Octomap.h)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/include/rotors_comm/RecordRosbag.h, /home/student/ros_project_bebop/catkin_ws/devel/include/rotors_comm/RecordRosbag.h)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/include/rotors_comm/RecordRosbagRequest.h, /home/student/ros_project_bebop/catkin_ws/devel/include/rotors_comm/RecordRosbagRequest.h)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/include/rotors_comm/OctomapRequest.h, /home/student/ros_project_bebop/catkin_ws/devel/include/rotors_comm/OctomapRequest.h)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/include/rotors_comm/WindSpeed.h, /home/student/ros_project_bebop/catkin_ws/devel/include/rotors_comm/WindSpeed.h)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/include/rotors_comm/OctomapResponse.h, /home/student/ros_project_bebop/catkin_ws/devel/include/rotors_comm/OctomapResponse.h)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/roseus/ros/rotors_comm/manifest.l, /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/rotors_comm/manifest.l)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/roseus/ros/rotors_comm/srv/Octomap.l, /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/rotors_comm/srv/Octomap.l)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/roseus/ros/rotors_comm/srv/RecordRosbag.l, /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/rotors_comm/srv/RecordRosbag.l)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/roseus/ros/rotors_comm/msg/WindSpeed.l, /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/rotors_comm/msg/WindSpeed.l)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/common-lisp/ros/rotors_comm/srv/_package.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/srv/_package.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/common-lisp/ros/rotors_comm/srv/rotors_comm-srv.asd, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/srv/rotors_comm-srv.asd)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/common-lisp/ros/rotors_comm/srv/_package_RecordRosbag.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/srv/_package_RecordRosbag.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/common-lisp/ros/rotors_comm/srv/_package_Octomap.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/srv/_package_Octomap.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/common-lisp/ros/rotors_comm/srv/Octomap.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/srv/Octomap.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/common-lisp/ros/rotors_comm/srv/RecordRosbag.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/srv/RecordRosbag.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/common-lisp/ros/rotors_comm/msg/WindSpeed.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/msg/WindSpeed.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/common-lisp/ros/rotors_comm/msg/rotors_comm-msg.asd, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/msg/rotors_comm-msg.asd)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/common-lisp/ros/rotors_comm/msg/_package.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/msg/_package.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/common-lisp/ros/rotors_comm/msg/_package_WindSpeed.lisp, /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/msg/_package_WindSpeed.lisp)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/rotors_comm/cmake/rotors_comm-msg-extras.cmake, /home/student/ros_project_bebop/catkin_ws/devel/share/rotors_comm/cmake/rotors_comm-msg-extras.cmake)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/rotors_comm/cmake/rotors_commConfig.cmake, /home/student/ros_project_bebop/catkin_ws/devel/share/rotors_comm/cmake/rotors_commConfig.cmake)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/rotors_comm/cmake/rotors_commConfig-version.cmake, /home/student/ros_project_bebop/catkin_ws/devel/share/rotors_comm/cmake/rotors_commConfig-version.cmake)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/rotors_comm/cmake/rotors_comm-msg-paths.cmake, /home/student/ros_project_bebop/catkin_ws/devel/share/rotors_comm/cmake/rotors_comm-msg-paths.cmake)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/gennodejs/ros/rotors_comm/_index.js, /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/rotors_comm/_index.js)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/gennodejs/ros/rotors_comm/srv/RecordRosbag.js, /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/rotors_comm/srv/RecordRosbag.js)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/gennodejs/ros/rotors_comm/srv/Octomap.js, /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/rotors_comm/srv/Octomap.js)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/gennodejs/ros/rotors_comm/srv/_index.js, /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/rotors_comm/srv/_index.js)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/gennodejs/ros/rotors_comm/msg/WindSpeed.js, /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/rotors_comm/msg/WindSpeed.js)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/share/gennodejs/ros/rotors_comm/msg/_index.js, /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/rotors_comm/msg/_index.js)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/lib/python2.7/dist-packages/rotors_comm/__init__.py, /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/rotors_comm/__init__.py)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/lib/python2.7/dist-packages/rotors_comm/srv/_Octomap.py, /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/rotors_comm/srv/_Octomap.py)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/lib/python2.7/dist-packages/rotors_comm/srv/__init__.py, /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/rotors_comm/srv/__init__.py)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/lib/python2.7/dist-packages/rotors_comm/srv/_RecordRosbag.py, /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/rotors_comm/srv/_RecordRosbag.py)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/lib/python2.7/dist-packages/rotors_comm/msg/__init__.py, /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/rotors_comm/msg/__init__.py)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/lib/python2.7/dist-packages/rotors_comm/msg/_WindSpeed.py, /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/rotors_comm/msg/_WindSpeed.py)
+Cleaning: (/home/student/ros_project_bebop/catkin_ws/devel/.private/rotors_comm/lib/pkgconfig/rotors_comm.pc, /home/student/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/rotors_comm.pc)
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/include/rotors_comm/RecordRosbagResponse.h
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/include/rotors_comm/Octomap.h
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/include/rotors_comm/RecordRosbag.h
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/include/rotors_comm/RecordRosbagRequest.h
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/include/rotors_comm/OctomapRequest.h
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/include/rotors_comm/WindSpeed.h
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/include/rotors_comm/OctomapResponse.h
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/rotors_comm/manifest.l
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/rotors_comm/srv/Octomap.l
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/rotors_comm/srv/RecordRosbag.l
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/roseus/ros/rotors_comm/msg/WindSpeed.l
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/srv/_package.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/srv/rotors_comm-srv.asd
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/srv/_package_RecordRosbag.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/srv/_package_Octomap.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/srv/Octomap.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/srv/RecordRosbag.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/msg/WindSpeed.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/msg/rotors_comm-msg.asd
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/msg/_package.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/common-lisp/ros/rotors_comm/msg/_package_WindSpeed.lisp
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/rotors_comm/cmake/rotors_comm-msg-extras.cmake
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/rotors_comm/cmake/rotors_commConfig.cmake
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/rotors_comm/cmake/rotors_commConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/rotors_comm/cmake/rotors_comm-msg-paths.cmake
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/rotors_comm/_index.js
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/rotors_comm/srv/RecordRosbag.js
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/rotors_comm/srv/Octomap.js
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/rotors_comm/srv/_index.js
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/rotors_comm/msg/WindSpeed.js
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/share/gennodejs/ros/rotors_comm/msg/_index.js
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/rotors_comm/__init__.py
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/rotors_comm/srv/_Octomap.py
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/rotors_comm/srv/__init__.py
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/rotors_comm/srv/_RecordRosbag.py
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/rotors_comm/msg/__init__.py
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/python2.7/dist-packages/rotors_comm/msg/_WindSpeed.py
+Already unlinked: {}
+Unlinking: /home/student/ros_project_bebop/catkin_ws/devel/lib/pkgconfig/rotors_comm.pc
+Already unlinked: {}
